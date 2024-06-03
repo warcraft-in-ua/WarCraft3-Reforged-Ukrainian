@@ -1,0 +1,6 @@
+На Mac це трохи складніше аніж на Windows але теж можливо
+
+Щоб гра зчитувала перекладені файли треба термінал на MacOs та вписати наступний строку
+
+defaults write "com.blizzard.Warcraft III" "Allow Local Files" -int 1
+
