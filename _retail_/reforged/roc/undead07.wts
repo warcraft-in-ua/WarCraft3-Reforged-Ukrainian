@@ -1,0 +1,1011 @@
+﻿STRING 11
+{
+Невмерлі07
+}
+
+STRING 12
+{
+1
+}
+
+STRING 14
+{
+Наступного ранку біля брам Даларану...
+}
+
+STRING 15
+{
+Blizzard Entertainment
+}
+
+STRING 17
+{
+Розділ сьомий
+}
+
+STRING 18
+{
+Облога Даларану
+}
+
+STRING 22
+{
+Облога Даларану
+}
+
+STRING 24
+{
+Лишилось архімагів
+}
+
+STRING 26
+{
+Артас
+}
+
+STRING 27
+{
+Пошуки Книги Медіва
+}
+
+STRING 28
+{
+Кожен із трьох архімагів, що забезпечують оборонний щит міста переховуються десь на даларанських вулицях. Убивши їх, Ви полегшите собі пошуки Антонідаса та книги.
+}
+
+STRING 29
+{
+Чаклунський фоліант твій, лічу. Забираймо його і вшиваймося, поки чарівники не зібрались для їхнього фінального залпу.
+}
+
+STRING 30
+{
+Кел'Тузад
+}
+
+STRING 31
+{
+Згідний. Я почну викликати лорда Архімонда на сході сонця.	
+}
+
+STRING 33
+{
+Кірін-Тор
+}
+
+STRING 36
+{
+Антонідас
+}
+
+STRING 37
+{
+Вітання, принце Артасе. Як поживає твій благородний батько?
+}
+
+STRING 38
+{
+Артас
+}
+
+STRING 39
+{
+Лорде Антонідасе. Не треба показувати лицемірства.
+}
+
+STRING 40
+{
+Невмерла Скара
+}
+
+STRING 44
+{
+Антонідас
+}
+
+STRING 45
+{
+Ми підготувались до твого прибуття, Артасе. Моє братство на чолі зі мною сотворили ауру, що знищить будь-яких невмерлих, які увійдуть під зону її дії.
+}
+
+STRING 46
+{
+Артас
+}
+
+STRING 47
+{
+Твоя фраєрська магія тобі не допоможе, Антонідасе.
+}
+
+STRING 48
+{
+Антонідас
+}
+
+STRING 49
+{
+Відкликай свої війська, інакше ми будемо вимушеними використати свої повні сили проти тебе. Обирай, лицарю смерті.
+}
+
+STRING 51
+{
+Убийте першого архімага
+}
+
+STRING 52
+{
+Кел'Тузад
+}
+
+STRING 53
+{
+Я відчуваю, що аурою цією керують три різних чаклуни. Якщо ти знайдеш та прикінчиш їх, аура розсіється.
+}
+
+STRING 59
+{
+Убийте останнього архімага
+}
+
+STRING 60
+{
+Убийте другого архімага
+}
+
+STRING 123
+{
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
+Усі Ваші будівлі знищили.
+}
+
+STRING 124
+{
+Поразка!
+}
+
+STRING 130
+{
+Гільдія магів
+}
+
+STRING 132
+{
+Істоти
+}
+
+STRING 134
+{
+Спілка чаклунів
+}
+
+STRING 135
+{
+Розділ сьомий: Облога Даларану
+}
+
+STRING 137
+// Units: nwc2 (Cage), Name (Name)
+{
+Клітка
+}
+
+STRING 160
+{
+Кел'Тузад
+}
+
+STRING 161
+{
+Архімага убито! Перша аура розсіюється!
+}
+
+STRING 206
+{
+Кел'Тузад
+}
+
+STRING 207
+{
+Другий чарівник загинув! Лишилась тільки одна аура!
+}
+
+STRING 230
+{
+Кел'Тузад
+}
+
+STRING 231
+{
+Чарівники тримають багато чарівних предметів всередині цього сховища! Розколи його, і ми зможемо використати зброю ворогів проти них самих!
+}
+
+STRING 235
+// Units: nwc1 (Cage), Name (Name)
+{
+Клітка
+}
+
+STRING 236
+// Destructibles: B000 (Energy Field A), Name (Name)
+{
+Енергетичне поле A
+}
+
+STRING 237
+// Destructibles: B001 (Energy Field B), Name (Name)
+{
+Енергетичне поле B
+}
+
+STRING 238
+// Destructibles: B002 (Energy Field C), Name (Name)
+{
+Енергетичне поле C
+}
+
+STRING 245
+// Doodads: D002 (Energy Field C OLD), Name (Name)
+{
+Енергетичне поле C СТАРЕ
+}
+
+STRING 246
+// Destructibles: B003 (Shimmering Portal Dalaran), Name (Name)
+{
+Миготливий портал Даларан
+}
+
+STRING 261
+{
+Антонідас
+}
+
+STRING 262
+{
+Мені боляче на тебе навіть дивитись, Артасе.
+}
+
+STRING 263
+{
+Артас
+}
+
+STRING 264
+{
+Мені приємно буде покінчити із твоїми стражданнями, стариганю. Я ж тобі казав, твоїй магії не спинити мене.
+}
+
+STRING 277
+// Doodads: D000 (Energy Field A OLD), Name (Name)
+{
+Енергетичне поле A СТАРЕ
+}
+
+STRING 278
+// Doodads: D001 (Energy Field B OLD), Name (Name)
+{
+Енергетичне поле B СТАРЕ
+}
+
+STRING 283
+// Doodads: D003 (Power Generator (Small)), Name (Name)
+{
+Генератор сили (Малий)
+}
+
+STRING 381
+// Doodads: D004 (Shimmering Portal Blue), Name (Name)
+{
+Миготливий портал синій
+}
+
+STRING 639
+// Doodads: D005 (Dalaran Violet Citadel Ruined Fallen), Name (Name)
+{
+Даларан Лілова цитадель зруйнована впала
+}
+
+STRING 640
+// Doodads: D006 (Ruined Tower Fallen), Name (Name)
+{
+Зруйнована вежа впала
+}
+
+STRING 642
+// Units: n000 (Dummy), Name (Name)
+{
+Манекен
+}
+
+STRING 643
+// Units: n000 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Водний маг)
+}
+
+STRING 646
+// Units: n002 (Dummy), Name (Name)
+{
+Манекен
+}
+
+STRING 647
+// Units: n002 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Вогняний маг)
+}
+
+STRING 655
+// Units: n003 (Dummy), Name (Name)
+{
+Манекен
+}
+
+STRING 656
+// Units: n003 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Арканічний маг)
+}
+
+STRING 681
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Пошуки книги Медіва
+  - Увірвіться до міста
+  - Убийте першого архімага
+  - Убийте другого архімага
+  - Убийте останнього архімага, щоб досягнути Антонідаса
+}
+
+STRING 682
+{
+|cff87ceebДОСТУПНИЙ НОВИЙ ЮНІТ|r
+Поганище - тепер Ви можете створювати поганищ у забійні.
+}
+
+STRING 697
+// Units: n004 (Dummy), Name (Name)
+{
+Манекен
+}
+
+STRING 698
+// Units: n004 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Вулкан)
+}
+
+STRING 699
+// Abilities: A001 (AI Gather ), Name (Name)
+{
+ШІ збирати 
+}
+
+STRING 700
+// Abilities: A002 (SS Attack Marker), Name (Name)
+{
+SS атака позначка
+}
+
+STRING 702
+// Abilities: A005 (EV Attack Marker), Name (Name)
+{
+EV атака позначка
+}
+
+STRING 703
+// Abilities: A006 (SS Attack Marker), Name (Name)
+{
+SS атака позначка
+}
+
+STRING 704
+// Abilities: A006 (SS Attack Marker), EditorSuffix (Editor Suffix)
+{
+(Початкова)
+}
+
+STRING 705
+// Abilities: A007 (EV Attack Marker), Name (Name)
+{
+EV атака позначка
+}
+
+STRING 706
+// Abilities: A007 (EV Attack Marker), EditorSuffix (Editor Suffix)
+{
+(Початкова)
+}
+
+STRING 707
+// Abilities: A008 (SE Attack Marker), Name (Name)
+{
+SE атака позначка
+}
+
+STRING 708
+// Abilities: A009 (SE Attack Marker), Name (Name)
+{
+SE атака позначка
+}
+
+STRING 709
+// Abilities: A009 (SE Attack Marker), EditorSuffix (Editor Suffix)
+{
+(Початкова)
+}
+
+STRING 710
+// Abilities: A00A (Вулкан), EditorSuffix (Editor Suffix)
+{
+(EV)
+}
+
+STRING 711
+// Abilities: A00C (Invulnerable Origin Effect), Name (Name)
+{
+Невразливий оригінальний ефект
+}
+
+STRING 759
+{
+Кел'Тузад
+}
+
+STRING 760
+{
+Кірін-Тор утримує істот цих ув'язненими для дослідження. Якщо ми випустимо їх, завдадуть вони ворогам нашим багато болю!
+}
+
+STRING 763
+{
+|cffffcc00ОНОВЛЕННЯ ГОЛОВНОГО ЗАВДАННЯ|r
+Пошуки книги Медіва
+  - |cff808080Убийте першого архімага (виконано)|r
+  - |cff808080Убийте другого архімага (виконано)|r
+  - Убийте останнього архімага
+  - Увійдіть до Лілової цитаделі та убийте Антонідаса
+}
+
+STRING 764
+{
+|cffffcc00ОНОВЛЕННЯ ГОЛОВНОГО ЗАВДАННЯ|r
+Пошуки книги Медіва
+  - |cff808080Убийте першого архімага (виконано)|r
+  - Убийте другого архімага
+  - Убийте останнього архімага
+  - Увійдіть до Лілової цитаделі та убийте Антонідаса
+}
+
+STRING 765
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+Пошуки книги Медіва
+}
+
+STRING 766
+{
+Увійдіть до Лілової цитаделі та убийте Антонідаса
+}
+
+STRING 767
+{
+|cffffcc00ОНОВЛЕННЯ ГОЛОВНОГО ЗАВДАННЯ|r
+Пошуки книги Медіва
+  - Убийте першого архімага
+  - Убийте другого архімага
+  - Убийте останнього архімага
+  - Увійдіть до Лілової цитаделі та убийте Антонідаса
+}
+
+STRING 768
+{
+|cffffcc00ОНОВЛЕННЯ ГОЛОВНОГО ЗАВДАННЯ|r
+Пошуки книги Медіва
+|cff808080  - Убийте першого архімага (виконано)|r
+|cff808080  - Убийте другого архімага (виконано)|r
+|cff808080  - Убийте останнього архімага (виконано)|r
+  - Увійдіть до Лілової цитаделі та убийте Антонідаса
+}
+
+STRING 769
+// Abilities: A00D (Unit Spawn Marker), Name (Name)
+{
+Породження юнітів позначка
+}
+
+STRING 770
+// Abilities: A00E (Unit Spawn Marker), Name (Name)
+{
+Породження юнітів позначка
+}
+
+STRING 771
+// Abilities: A00E (Unit Spawn Marker), EditorSuffix (Editor Suffix)
+{
+(Кінець)
+}
+
+STRING 772
+// Abilities: A00F (Unit Spawn Marker), Name (Name)
+{
+Породження юнітів позначка
+}
+
+STRING 776
+// Abilities: A00G (Unit Spawn Marker), Name (Name)
+{
+Породження юнітів позначка
+}
+
+STRING 777
+// Abilities: A004 (Unit Spawner Marker), Name (Name)
+{
+Породжувач юнітів позначка
+}
+
+STRING 790
+// Abilities: A00F (Unit Spawn Marker), EditorSuffix (Editor Suffix)
+{
+(Зарядка)
+}
+
+STRING 791
+// Abilities: A00G (Unit Spawn Marker), EditorSuffix (Editor Suffix)
+{
+(Накладач)
+}
+
+STRING 831
+// Units: h001 (Dummy), EditorSuffix (Name - Editor Suffix)
+{
+(Команди відповіді)
+}
+
+STRING 832
+// Units: h001 (Dummy), Name (Name)
+{
+Манекен
+}
+
+STRING 850
+// Abilities: A00H (Дзеркальне Зображення), EditorSuffix (Editor Suffix)
+{
+(Архімаг)
+}
+
+STRING 863
+// Abilities: A00I (Summon Reinforcements), Name (Name)
+{
+Викликати підкріплення
+}
+
+STRING 864
+// Doodads: D007 (Building C Large), Name (Name)
+{
+Будівля C велика
+}
+
+STRING 865
+// Doodads: D008 (Building A Large), Name (Name)
+{
+Будівля A велика
+}
+
+STRING 866
+// Doodads: D009 (Building B Large), Name (Name)
+{
+Будівля B велика
+}
+
+STRING 867
+// Doodads: D00A (Enclave Turret Large), Name (Name)
+{
+Гармата анклав велика
+}
+
+STRING 868
+// Doodads: D00B (City Entrance B), Name (Name)
+{
+Вхід до міста B
+}
+
+STRING 869
+// Destructibles: XTbd (Building Dalaran), Name (Name)
+{
+Даларанська будівля
+}
+
+STRING 870
+// Doodads: D00C (Building Dalaran), Name (Name)
+{
+Даларанська будівля
+}
+
+STRING 871
+// Doodads: D00D (Building Dalaran VC), Name (Name)
+{
+Даларанська будівля ЛЦ
+}
+
+STRING 887
+// Doodads: D00E (Violet Hold Spire (Small) L), Name (Name)
+{
+Лілова фортеця вежа (мала) L
+}
+
+STRING 888
+// Units: n005 (Soul Golem), Name (Name)
+{
+Голем душі
+}
+
+STRING 889
+// Units: nhym (Council Wizard), Name (Name)
+{
+Чарівник ради
+}
+
+STRING 893
+// Abilities: A00J (Скриня Золота), EditorSuffix (Editor Suffix)
+{
+(5)
+}
+
+STRING 894
+// Abilities: A00B (Скриня Золота), EditorSuffix (Editor Suffix)
+{
+(3)
+}
+
+STRING 895
+// Abilities: A00K (Скриня Золота), EditorSuffix (Editor Suffix)
+{
+(8)
+}
+
+STRING 903
+{
+Зачаровані в'язні
+}
+
+STRING 918
+{
+|cffffcc00ЗНАЙДЕНО ДОДАТКОВЕ ЗАВДАННЯ|r
+Лілова рада
+  - Убийте усіх 9 чарівників ради (1/9)
+}
+
+STRING 929
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ВИКОНАНО|r
+Лілова рада
+}
+
+STRING 930
+{
+|cffffcc00ЗНАЙДЕНО ДОДАТКОВЕ ЗАВДАННЯ|r
+Лілова рада
+  - Убийте усіх 9 чарівників ради (8/9)
+}
+
+STRING 931
+{
+|cffffcc00ЗНАЙДЕНО ДОДАТКОВЕ ЗАВДАННЯ|r
+Лілова рада
+  - Убийте усіх 9 чарівників ради (7/9)
+}
+
+STRING 932
+{
+|cffffcc00ЗНАЙДЕНО ДОДАТКОВЕ ЗАВДАННЯ|r
+Лілова рада
+  - Убийте усіх 9 чарівників ради (6/9)
+}
+
+STRING 933
+{
+|cffffcc00ЗНАЙДЕНО ДОДАТКОВЕ ЗАВДАННЯ|r
+Лілова рада
+  - Убийте усіх 9 чарівників ради (5/9)
+}
+
+STRING 934
+{
+|cffffcc00ЗНАЙДЕНО ДОДАТКОВЕ ЗАВДАННЯ|r
+Лілова рада
+  - Убийте усіх 9 чарівників ради (4/9)
+}
+
+STRING 935
+{
+|cffffcc00ЗНАЙДЕНО ДОДАТКОВЕ ЗАВДАННЯ|r
+Лілова рада
+  - Убийте усіх 9 чарівників ради (3/9)
+}
+
+STRING 936
+{
+|cffffcc00ЗНАЙДЕНО ДОДАТКОВЕ ЗАВДАННЯ|r
+Лілова рада
+  - Убийте усіх 9 чарівників ради (2/9)
+}
+
+STRING 937
+{
+|cffffcc00ЗНАЙДЕНО ДОДАТКОВЕ ЗАВДАННЯ|r
+Лілова рада
+  - Убийте усіх 9 чарівників ради (1/9)
+}
+
+STRING 938
+// Units: h002 (Літальний Апарат), EditorSuffix (Name - Editor Suffix)
+{
+(Бачення)
+}
+
+STRING 939
+// Units: n006 (VH Dummy Missile), Name (Name)
+{
+VH манекен снаряд
+}
+
+STRING 940
+// Destructibles: B004 (ForceWall No Block), Name (Name)
+{
+СиловаСтіна без блоку
+}
+
+STRING 941
+// Doodads: D00F (Glowing Runes Large), Name (Name)
+{
+Яскраві руни великі
+}
+
+STRING 942
+// Destructibles: DTfx (Foot Switch Dalaran), Name (Name)
+{
+Плита-перемикач Даларан
+}
+
+STRING 946
+// Items: I000 (Золоті Монети), Ubertip (Tooltip - Extended)
+{
+Дає гравцю <A00K,DataA1> золота при використанні.
+}
+
+STRING 947
+// Items: I001 (Золоті Монети), Ubertip (Tooltip - Extended)
+{
+Дає гравцю <A00B,DataA1> золота при використанні.
+}
+
+STRING 948
+// Items: I002 (Золоті Монети), Ubertip (Tooltip - Extended)
+{
+Дає гравцю <A00J,DataA1> золота при використанні.
+}
+
+STRING 949
+// Destructibles: Dofv (ForceWall 45), Name (Name)
+{
+СиловаСтіна 45
+}
+
+STRING 960
+// Doodads: D00G (Sunreaver Archway Small), Name (Name)
+{
+Сонцекрадна арка мала
+}
+
+STRING 961
+// Destructibles: B005 (Line of Sight Blocker (Tall)), Name (Name)
+{
+Лінія блокування зору (Висока)
+}
+
+STRING 972
+// Abilities: A00L (Vault - Life), Name (Name)
+{
+Сховище - життя
+}
+
+STRING 976
+// Abilities: A00N (Грюкнути), EditorSuffix (Editor Suffix)
+{
+(Голем)
+}
+
+STRING 977
+// Abilities: A00M (Аура Відданості), EditorSuffix (Editor Suffix)
+{
+(Голем)
+}
+
+STRING 978
+// Abilities: A00O (Аура Відновлення Життя), EditorSuffix (Editor Suffix)
+{
+(Голем)
+}
+
+STRING 979
+// Abilities: A00N (Грюкнути), Ubertip (Tooltip - Normal - Extended)
+{
+Грюкає землю, завдаючи <A00N,DataA1> шкоди та сповільнюючи швидкість пересування та атаки ворожим військ довкола.
+}
+
+STRING 980
+// Abilities: A00M (Аура Відданості), Ubertip (Tooltip - Normal - Extended)
+{
+Підсилює броню дружніх військ поблизу на <A00M,DataA1> одиниць.
+}
+
+STRING 981
+// Units: n007 (Heart of Healing), Name (Name)
+{
+Серце зцілення
+}
+
+STRING 982
+// Units: n008 (Devotion Plating), Name (Name)
+{
+Обладунок відданості
+}
+
+STRING 984
+// Units: n009 (Fists of Pain), Name (Name)
+{
+Кулаки болю
+}
+
+STRING 985
+// Abilities: A00P (Healing Aura), EditorSuffix (Editor Suffix)
+{
+(Голем)
+}
+
+STRING 987
+// Abilities: A00P (Healing Aura), Name (Name)
+{
+Аура зцілення
+}
+
+STRING 988
+// Abilities: A00P (Healing Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Зцілює <A00O,DataA1> здоров'я в секунду в ділянці.
+}
+
+STRING 989
+{
+Частини голема
+}
+
+STRING 991
+// Units: nmgv (Heirloom Vault), Name (Name)
+{
+Сховище реліквій
+}
+
+STRING 992
+// Units: n001 (Coin Vault), Name (Name)
+{
+Сховище монет
+}
+
+STRING 998
+// Abilities: A00P (Healing Aura), Tip (Tooltip - Normal)
+{
+Аура зцілення
+}
+
+STRING 1010
+// Doodads: D00H (Dalaran Bridge), Name (Name)
+{
+Даларанський міст
+}
+
+STRING 1012
+{
+Даларанська елітна рада дев'яти посилає через місто підкріплення та охороняє скарби. Перебийте їх усіх, щоб полегшити собі шлях до перемоги.
+}
+
+STRING 1016
+{
+Лілова рада
+}
+
+STRING 1017
+{
+Даларанська елітна рада дев'яти посилає через місто підкріплення та охороняє скарби. Перебийте їх усіх, щоб полегшити собі шлях до перемоги.
+}
+
+STRING 1021
+{
+Чарівники Кірін-Тору! Я Артас, перший лицар смерті Короля-Ліча! Я вимагаю, щоб ви відчинили свої врата та усі пали ниць перед могутністю Скари!
+}
+
+STRING 1022
+{
+Артас
+}
+
+STRING 1031
+{
+Облиш мене в спокої, або я перетворю тебе на безмізклу вівцю.
+}
+
+STRING 1032
+{
+Чарівник ради
+}
+
+STRING 1034
+{
+|cffffcc00ДОДАТКОВЕ ЗАВДАННЯ ПРОВАЛЕНО|r
+Лілова рада
+}
+
+STRING 1037
+{
+Убийте дев'ятьох чарівників ради
+}
+
+STRING 1038
+{
+Даларанська елітна рада дев'яти посилає через місто підкріплення та охороняє скарби. Перебийте їх усіх, щоб полегшити собі шлях до перемоги. (1/9)
+}
+
+STRING 1039
+{
+Даларанська елітна рада дев'яти посилає через місто підкріплення та охороняє скарби. Перебийте їх усіх, щоб полегшити собі шлях до перемоги. (2/9)
+}
+
+STRING 1040
+{
+Даларанська елітна рада дев'яти посилає через місто підкріплення та охороняє скарби. Перебийте їх усіх, щоб полегшити собі шлях до перемоги. (3/9)
+}
+
+STRING 1041
+{
+Даларанська елітна рада дев'яти посилає через місто підкріплення та охороняє скарби. Перебийте їх усіх, щоб полегшити собі шлях до перемоги. (4/9)
+}
+
+STRING 1042
+{
+Даларанська елітна рада дев'яти посилає через місто підкріплення та охороняє скарби. Перебийте їх усіх, щоб полегшити собі шлях до перемоги. (5/9)
+}
+
+STRING 1043
+{
+Даларанська елітна рада дев'яти посилає через місто підкріплення та охороняє скарби. Перебийте їх усіх, щоб полегшити собі шлях до перемоги. (6/9)
+}
+
+STRING 1044
+{
+Даларанська елітна рада дев'яти посилає через місто підкріплення та охороняє скарби. Перебийте їх усіх, щоб полегшити собі шлях до перемоги. (7/9)
+}
+
+STRING 1045
+{
+Даларанська елітна рада дев'яти посилає через місто підкріплення та охороняє скарби. Перебийте їх усіх, щоб полегшити собі шлях до перемоги. (8/9)
+}
+
+STRING 1046
+{
+Даларанська елітна рада дев'яти посилає через місто підкріплення та охороняє скарби. Перебийте їх усіх, щоб полегшити собі шлях до перемоги. (9/9)
+}
+
+STRING 1047
+// Buffs/Effects: B000 (), Bufftip (Tooltip)
+{
+Аура зцілення
+}
+
+STRING 1048
+// Buffs/Effects: B000 (), Buffubertip (Tooltip - Extended)
+{
+Цей юніт зцілюється.
+}
+

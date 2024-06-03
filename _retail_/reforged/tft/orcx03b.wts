@@ -1,0 +1,1286 @@
+﻿STRING 0
+{
+Рекксар
+}
+
+STRING 1
+{
+Поразка!
+}
+
+STRING 2
+// Units: n002 (Watch Post Barracks), Name (Name)
+{
+Бараки сторожового поста
+}
+
+STRING 3
+{
+ОркиX03b
+}
+
+STRING 4
+{
+1
+}
+
+STRING 5
+// Units: o001 (Orgrimmar Armory), Name (Name)
+{
+Орґріммарська зброярня
+}
+
+STRING 6
+{
+Blizzard Entertainment
+}
+
+STRING 7
+{
+|cff32cd32ПІДКАЗКА|r - Ви програєте завдання, якщо знищите вартову споруду Терамору.
+}
+
+STRING 8
+// Units: h004 (Elite Footman), Name (Name)
+{
+Елітний піхотинець
+}
+
+STRING 9
+// Units: n003 (Neeloc's Outpost), Name (Name)
+{
+Нілоків аванпост
+}
+
+STRING 10
+// Units: n004 (Goblin Storehouse), Name (Name)
+{
+Ґоблінський склад
+}
+
+STRING 11
+// Units: n005 (Aicila's Marketplace), Name (Name)
+{
+Ринок Айсіли
+}
+
+STRING 12
+// Doodads: D00E (Loading Wall), Name (Name)
+{
+Стіна завантаження
+}
+
+STRING 13
+// Units: h005 (Elite Knight), Name (Name)
+{
+Елітний лицар
+}
+
+STRING 14
+// Units: n007 (Chaplain), Name (Name)
+{
+Капелан
+}
+
+STRING 15
+// Units: n008 (Hydromancer), Name (Name)
+{
+Гідромант
+}
+
+STRING 16
+// Units: h006 (Elite Rifleman), Name (Name)
+{
+Елітний стрілець
+}
+
+STRING 17
+// Units: h007 (Elite Mortar Team), Name (Name)
+{
+Елітний мінометний загін
+}
+
+STRING 18
+// Units: n00N (Master Chaplain), Name (Name)
+{
+Капелан-майстер
+}
+
+STRING 19
+// Units: n00O (Master Hydromancer), Name (Name)
+{
+Гідромант-майстер
+}
+
+STRING 20
+{
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
+Усі орківські будівлі знищили.
+}
+
+STRING 21
+// Destructibles: B000 (Cinematic Crates), Name (Name)
+{
+Кінематик ящики
+}
+
+STRING 22
+// Units: nzep (Zeppelin to Echo Isles), Name (Name)
+{
+Дирижабль до островів Ехо
+}
+
+STRING 23
+// Units: o002 (Pack Beast), Name (Name)
+{
+Вантажний звір
+}
+
+STRING 24
+// Units: n009 (Centaur Deathcaller), Name (Name)
+{
+Кентавр-смертеклич
+}
+
+STRING 25
+// Destructibles: B001 (Cinematic Barrel), Name (Name)
+{
+Кінематик діжка
+}
+
+STRING 26
+{
+Поразка!
+}
+
+STRING 27
+// Items: tpow (Фоліант Знань), Hotkey (Hotkey)
+{
+K
+}
+
+STRING 28
+// Items: tpow (Фоліант Знань), Tip (Tooltip - Basic)
+{
+Купити фоліант знань
+}
+
+STRING 29
+// Units: ovln (Jin'Zil's Magic Shack), Name (Name)
+{
+Магічна хижка Джин'Зіла
+}
+
+STRING 30
+// Units: ngme (Helbrim's Potions), Name (Name)
+{
+Гелбрімові зілля
+}
+
+STRING 31
+// Units: nmrk (Magic Rings and Things), Name (Name)
+{
+Магічні персні та дрібнички
+}
+
+STRING 32
+// Items: srtl (Serathil), Ubertip (Tooltip - Extended)
+{
+|cffff8c00Артефакт|r|nЗбільшує швидкість атак героя на <AIsx,DataA1,%>% і шкоду від атак на 30.|n|cffffdeadІсторія|r|n|cffffdeadЦю зброю було створено у Дренорі для Каш'дракора і використано у війні Кривавої Ріки, що закінчила винищення клану Темного Шраму. Назґрель це останній живий спогад про Каш'дракора.|r
+}
+
+STRING 33
+// Items: I003 (Book of Town Portal), Name (Name)
+{
+Книга міського порталу
+}
+
+STRING 34
+// Items: I004 (Tome of Forbidden Knowledge), Description (Description)
+{
+|cff87ceebУнікальний предмет|r|nМиттєво збільшує на 3 одиниці силу, спритність та розум героя.
+}
+
+STRING 35
+// Items: I003 (Book of Town Portal), Ubertip (Tooltip - Extended)
+{
+Телепортує героя та усі війська довкола нього до обраної дружньої ратуші. Має необмежену кількість зарядів.
+}
+
+STRING 36
+// Items: I003 (Book of Town Portal), Description (Description)
+{
+Переміщає війська до дружньої ратуші.
+}
+
+STRING 37
+// Units: n00P (Storm Elemental), Name (Name)
+{
+Штормовий елементаль
+}
+
+STRING 38
+// Items: I004 (Tome of Forbidden Knowledge), Name (Name)
+{
+Фоліант заборонених знань
+}
+
+STRING 39
+// Units: n006 (Bloodfeather), Name (Name)
+{
+Кривавопера
+}
+
+STRING 40
+// Units: H009 (Chief Petty Officer), Name (Name)
+{
+Головний офіцер
+}
+
+STRING 41
+// Units: H00A (Chief of Chaplains), Name (Name)
+{
+Начальник капеланів
+}
+
+STRING 42
+// Units: n00Q (Wave Tower), Name (Name)
+{
+Вежа хвиль
+}
+
+STRING 43
+// Items: schl (Скіпетр Зцілення), Ubertip (Tooltip - Extended)
+{
+Дає можливість зцілювати дружні війська.
+}
+
+STRING 44
+{
+Орківська Орда
+}
+
+STRING 45
+// Abilities: AOr3 (Реінкарнація), Tip (Tooltip - Normal)
+{
+Реінкарнація - [|cffffcc00рівень 2|r]
+}
+
+STRING 46
+// Abilities: A000 (Summon Sea Elemental), Name (Name)
+{
+Викликати морського елементаля
+}
+
+STRING 47
+// Buffs/Effects: B000 (Sea Elemental), EditorName (Name (Editor Only))
+{
+Морський елементаль
+}
+
+STRING 48
+// Items: sor1 (Necklace of Burning Souls), Ubertip (Tooltip - Extended)
+{
+|cffff8c00Артефакт|r|nЗбільшує розум героя-носія на <AIi6,DataB1> одиниць, ману на <AI2m,DataA1> і шкоду на <AItn,DataA1> одиниць. Атака героя також стає дальньою при атаці повітря і завдає шкоди по зоні ворожим військам поблизу.|n|cffffcc00Історія|r|n|cffffdeadВпродовж століть ревенант палаючих душ збирав духи тих, хто загинув у битві проти нього. Їхня енергія та життя зберігаються всередині цієї теплої дрібнички, як трофей його безчисленних тріумфів.|r
+}
+
+STRING 49
+// Items: sor1 (Necklace of Burning Souls), Tip (Tooltip - Basic)
+{
+Купити кольє палаючих душ
+}
+
+STRING 50
+// Items: sor1 (Necklace of Burning Souls), Name (Name)
+{
+Кольє палаючих душ
+}
+
+STRING 51
+{
+Останній адмірал
+}
+
+STRING 52
+{
+Кораблі, що вартували Терамор впали перед Вашою могутністю, але ще лишилося одне останнє завдання. Убийте адмірала Праудмура та покладіть край рокам забою орків, які він гордо здійснив. Хоча загроза людських наскоків на Дуротар завжди залишиться, убивство адмірала Праудмура та знищення його флотилії тяжко завадить їхній здатності загрожувати орочим кланам.
+}
+
+STRING 53
+{
+Убийте адмірала Праудмура
+}
+
+STRING 54
+{
+Не знищте жодної Тераморської вартової споруди
+}
+
+STRING 55
+// Units: n000 (Orgrimmar Barracks), Description (Description)
+{
+Дозволяють Вам наймати різні війська.
+}
+
+STRING 56
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ|r
+Останній адмірал
+  - Убийте адмірала Праудмура
+  - Не знищте жодної Тераморської вартової споруди
+}
+
+STRING 57
+{
+|cffffcc00ГОЛОВНЕ ЗАВДАННЯ ВИКОНАНО|r
+Останній адмірал
+}
+
+STRING 58
+{
+Флотилія Кул-Тірасу
+}
+
+STRING 59
+{
+Поразка!
+}
+
+STRING 60
+{
+|cffffcc00ЗАВДАННЯ ПРОВАЛЕНО|r
+Тераморську вартову споруду було знищено.
+}
+
+STRING 61
+// Doodads: D00F (Archway Angled (No Pathing)), Name (Name)
+{
+Арка під кутом (Не прохід)
+}
+
+STRING 62
+{
+Тралл
+}
+
+STRING 63
+{
+Тепер, вояки, ми мусимо штурмувати цитадель! Ми мусимо знайти адмірала Праудмура та прикінчити його. Лишень тоді наші народи будуть в безпеці.
+}
+
+STRING 64
+{
+Керн Криваве Копито
+}
+
+STRING 65
+// Items: sor1 (Necklace of Burning Souls), Description (Description)
+{
+|cffff8c00Артефакт|r|nПотужне кольє, що тепле на дотик.
+}
+
+STRING 66
+// Items: sor2 (Talendar Skull Helm), Description (Description)
+{
+|cffff8c00Артефакт|r|nДирявий череп лорда Талендара.
+}
+
+STRING 67
+// Units: n000 (Orgrimmar Barracks), Name (Name)
+{
+Орґріммарські бараки
+}
+
+STRING 68
+{
+Ми з тобою, Рекксар. Веди!
+}
+
+STRING 69
+{
+Місто Терамор
+}
+
+STRING 70
+// Units: o000 (Morg Wolfsong), Name (Name)
+{
+Морґ Вовкоспів
+}
+
+STRING 71
+// Units: h000 (Thunder Phoenix), Name (Name)
+{
+Громовий фенікс
+}
+
+STRING 72
+// Units: n009 (Centaur Deathcaller), Tip (Tooltip - Basic)
+{
+Найняти кентавра-смертеклича
+}
+
+STRING 73
+// Units: h001 (Lesser Thunder Phoenix), Name (Name)
+{
+Менший громовий фенікс
+}
+
+STRING 74
+// Units: h002 (Greater Thunder Phoenix), Name (Name)
+{
+Більший громовий фенікс
+}
+
+STRING 75
+// Units: otbk (Берсерк), Tip (Tooltip - Basic)
+{
+Найняти трольського берсерка
+}
+
+STRING 76
+// Units: ogru (Рубайло), Tip (Tooltip - Basic)
+{
+Найняти рубайла
+}
+
+STRING 77
+// Units: ngad (Goblin Observatory), Name (Name)
+{
+Ґоблінська обсерваторія
+}
+
+STRING 78
+// Units: nsrn (Некроліт Бурекрадів), Hotkey (Hotkey)
+{
+N
+}
+
+STRING 79
+// Units: nsrn (Некроліт Бурекрадів), Tip (Tooltip - Basic)
+{
+Найняти некроліта Бурекрадів
+}
+
+STRING 80
+// Items: jdrn (Нефритовий Перстень), Hotkey (Hotkey)
+{
+J
+}
+
+STRING 81
+// Items: jdrn (Нефритовий Перстень), Tip (Tooltip - Basic)
+{
+Купити нефритовий перстень
+}
+
+STRING 82
+// Items: rlif (Перстень Регенерації), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 83
+// Items: rlif (Перстень Регенерації), Tip (Tooltip - Basic)
+{
+Купити перстень регенерації
+}
+
+STRING 84
+// Items: mcou (Медальйон Хоробрості), Hotkey (Hotkey)
+{
+M
+}
+
+STRING 85
+// Items: mnst (Камінь Мани), Tip (Tooltip - Basic)
+{
+Купити камінь мани
+}
+
+STRING 86
+// Items: shas (Сувій Швидкості), Tip (Tooltip - Basic)
+{
+Купити сувій швидкості
+}
+
+STRING 87
+// Items: mlst (Довбня Сили), Tip (Tooltip - Basic)
+{
+Купити довбню сили
+}
+
+STRING 88
+// Items: evtl (Талісман Ухилення), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 89
+// Items: mnsf (Розумопосох), Tip (Tooltip - Basic)
+{
+Купити розумопосох
+}
+
+STRING 90
+// Items: sksh (Щит-Череп), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 91
+// Items: sksh (Щит-Череп), Tip (Tooltip - Basic)
+{
+Купити щит-череп
+}
+
+STRING 92
+// Items: rst1 (Наручні Оґрівської Сили +3), Hotkey (Hotkey)
+{
+G
+}
+
+STRING 93
+// Items: rst1 (Наручні Оґрівської Сили +3), Tip (Tooltip - Basic)
+{
+Купити наручні оґрівської сили +3
+}
+
+STRING 94
+// Items: shas (Сувій Швидкості), Hotkey (Hotkey)
+{
+C
+}
+
+STRING 95
+{
+Рекксар
+}
+
+STRING 96
+// Items: hcun (Каптур Хитрості), Hotkey (Hotkey)
+{
+H
+}
+
+STRING 97
+{
+Лок-тар оґар! За Орду! За Дуротар!
+}
+
+STRING 98
+// Items: hcun (Каптур Хитрості), Tip (Tooltip - Basic)
+{
+Купити каптур хитрості
+}
+
+STRING 99
+// Units: o002 (Pack Beast), Tip (Tooltip - Basic)
+{
+Найняти вантажного звіра
+}
+
+STRING 100
+// Units: o002 (Pack Beast), Hotkey (Hotkey)
+{
+P
+}
+
+STRING 101
+// Units: n00F (Centaur Marauder), Name (Name)
+{
+Кентавр-мародер
+}
+
+STRING 102
+{
+Рекксар
+}
+
+STRING 103
+{
+Це кінець! Стійте, люди!
+}
+
+STRING 104
+// Doodads: D00D (Mine Cart Empty NOPATHING), Name (Name)
+{
+Вагонетка порожня НЕПРОХІД
+}
+
+STRING 105
+{
+Джайна Праудмур
+}
+
+STRING 106
+{
+Батьку... ну чому ти мене не послухав?
+}
+
+STRING 107
+{
+Рекксар
+}
+
+STRING 108
+{
+Попри усе інше, Джайна, він був гордим вояком. Пам'ятай його таким.
+}
+
+STRING 109
+{
+Тралл
+}
+
+STRING 110
+{
+Дуротар тепер у безпеці. Ми більше не маємо сварки із цими людьми. Ми залишимо твій острів з миром, Джайна. Молюся, щоб ми ніколи не мали сюди вертатися. Прощавай, чаклунка.
+}
+
+STRING 111
+{
+Тралл
+}
+
+STRING 112
+{
+Ти врятував наш народ, Рекксар. За це я тобі не зможу ніколи віддячити. Ти повернешся до Дуротару з нами і зробиш собі новий дім?
+}
+
+STRING 113
+{
+Рекксар
+}
+
+STRING 114
+{
+Я ціную твою пропозицію, Тралл. Але я мок'натал--мандрівник. Я належу природі, поміж звірів і елементів землі. Але знай це, брате: я завжди буду частиною Орди. Я завжди буду тут, коли буду тобі потрібен. Прощай.
+}
+
+STRING 115
+{
+Тераморська варта
+}
+
+STRING 116
+// Items: sor2 (Talendar Skull Helm), Name (Name)
+{
+Череп-шолом Талендара
+}
+
+STRING 117
+// Items: sor2 (Talendar Skull Helm), Tip (Tooltip - Basic)
+{
+Купити череп-шолом Талендара
+}
+
+STRING 118
+// Items: sor2 (Talendar Skull Helm), Ubertip (Tooltip - Extended)
+{
+|cffff8c00Артефакт|r|nЗбільшує на <AIs6,DataC1> одиниць силу, розум та спритність героя-носія і блокує закляття, що накладаються на героя кожні <ANss,Cool1> секунд. |n|cffffcc00Історія|r|n|cffffdeadТалендарова жага арканічної сили живилася його нездатністю накладати закляття самому. Він зачинився всередині місця арканічної сили, у відчаї намагаючись поглинути енергію довкола нього, але замість того, щоб дати йому сили, це місце стало його гробницею.|r
+}
+
+STRING 119
+// Units: n00R (Storm Tower), Name (Name)
+{
+Штормова вежа
+}
+
+STRING 121
+// Units: n00A (Centaur Firecaller), Name (Name)
+{
+Кентавр-вогнеклич
+}
+
+STRING 122
+// Units: n00A (Centaur Firecaller), Tip (Tooltip - Basic)
+{
+Найняти кентавра-вогнеклича
+}
+
+STRING 123
+// Units: n00B (Razormane Spirit Chanter), Name (Name)
+{
+Лезогрив-духовний співець
+}
+
+STRING 124
+// Units: n00C (Murloc Ritualist), Name (Name)
+{
+Мурлок-обрядовик
+}
+
+STRING 125
+// Units: n00E (Wildkin Earthcaster), Name (Name)
+{
+Дикорід-землекид
+}
+
+STRING 126
+// Units: ogru (Рубайло), Ubertip (Tooltip - Extended)
+{
+Безстрашний орківський вояка. |n|n|cffffcc00Не може покинути Дуротар.|r |n|cffffcc00Атакує наземні війська.|r
+}
+
+STRING 127
+// Items: btst (Orgrimmar Battle Standard), Description (Description)
+{
+|cffff8c00Артефакт|r|nВеликий бойовий штандарт із новими знаками Орґріммару на ньому.
+}
+
+STRING 128
+// Items: btst (Orgrimmar Battle Standard), Name (Name)
+{
+Орґріммарський бойовий штандарт
+}
+
+STRING 129
+// Items: rde2 (Перстень Захисту +3), Tip (Tooltip - Basic)
+{
+Купити перстень захисту +3
+}
+
+STRING 130
+// Items: evtl (Талісман Ухилення), Tip (Tooltip - Basic)
+{
+Купити талісман ухилення
+}
+
+STRING 131
+// Items: btst (Orgrimmar Battle Standard), Tip (Tooltip - Basic)
+{
+Купити орґріммарський бойовий штандарт
+}
+
+STRING 132
+// Items: btst (Orgrimmar Battle Standard), Ubertip (Tooltip - Extended)
+{
+|cffff8c00Артефакт|r|nЗбільшує на <AIx5,DataA1> одиниць силу, розум та спритність героя-носія. Також дає герою ближнього бою та дружнім військам довкола нього атаки, що крадуть життя, перетворюючи <AIav,DataA1,%>% завданої ними шкоди у життя. |n|cffffcc00Історія|r|n|cffffdeadВикуваний Рекксаровою силою та хоробрістю, бойовий штандарт Орґріммару може надихати армії битися із несамовитою жагою крові, даючи їм силу та живучість, коли інші армії гинуть.|r
+}
+
+STRING 133
+{
+Рекксар
+}
+
+STRING 134
+{
+Елітна варта адмірала намагається нас відрізати! Убити їх усіх!
+}
+
+STRING 135
+// Items: I004 (Tome of Forbidden Knowledge), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 136
+// Items: I007 (Bling Ring), Ubertip (Tooltip - Extended)
+{
+|cffc0c0c0OMG|r|nПерстень розкоші вирішить усі Ваші фінансові проблеми. Просто клац-клацніть, щоб побачити, як перстень розкоші розкіш-розкіш.
+}
+
+STRING 137
+// Items: I004 (Tome of Forbidden Knowledge), Tip (Tooltip - Basic)
+{
+Купити фоліант заборонених знань
+}
+
+STRING 138
+// Items: I005 (Titan's Stone Necklace), Name (Name)
+{
+Кам'яне кольє титана
+}
+
+STRING 139
+{
+Великий адмірал Праудмур
+}
+
+STRING 140
+{
+Я мушу погодитися, що ви, орки, більш наполегливі, ніж я запам'ятав. Я думав, що ви, дикуни, зараз би розпочали свої міжусобиці.
+}
+
+STRING 141
+// Items: I005 (Titan's Stone Necklace), Description (Description)
+{
+|cffff8c00Артефакт|r|nПросте на вигляд кольє з каменю, що світиться внутрішньою силою.
+}
+
+STRING 142
+// Doodads: D000 (Orc Pig Farm), Name (Name)
+{
+Ороча свинна ферма
+}
+
+STRING 143
+// Items: I006 (Athrikus' Ring of Power), Ubertip (Tooltip - Extended)
+{
+|cffff8c00Артефакт|r|nЗбільшує носить на 3 одиниці силу, спритність та розум героя-носія і броню на 5 одиниць.|n|cffffcc00Історія|r|n|cffffdeadАтрікус Нарассін бажав Джерела Вічності та його арканічних сил. Коли воно нарешті вибухнуло, Атрікусові магічні предмети відкинуло від його тіла із розкидало по всьому Калімдорі. Він вижив і знайшов те, що мав наснаженим демонічними силами, які він використовував, щоб скувати душі менших високородних собі, даючи безсмертя.|r
+}
+
+STRING 144
+// Doodads: D002 (Orc Barracks), Name (Name)
+{
+Орківські бараки
+}
+
+STRING 145
+// Doodads: D005 (Orc Altar), Name (Name)
+{
+Орківський вівтар
+}
+
+STRING 146
+// Doodads: D004 (Orc War Mill), Name (Name)
+{
+Орківська військова виробня
+}
+
+STRING 147
+// Doodads: D003 (Orc Watch Tower), Name (Name)
+{
+Орківська сторожова вежа
+}
+
+STRING 148
+// Doodads: D006 (Barrel 03), Name (Name)
+{
+Діжка 03
+}
+
+STRING 149
+// Doodads: D007 (Barrel 01), Name (Name)
+{
+Діжка 01
+}
+
+STRING 150
+// Doodads: D008 (Barrel 02), Name (Name)
+{
+Діжка 02
+}
+
+STRING 151
+// Doodads: D009 (Loading Runes), Name (Name)
+{
+Руни завантаження
+}
+
+STRING 152
+// Doodads: D00A (Orc Spirit Lodge), Name (Name)
+{
+Орківське ложе духів
+}
+
+STRING 153
+// Units: n001 (Noggrin Onetooth), Name (Name)
+{
+Ноґґрін Однозуб
+}
+
+STRING 154
+{
+Поки блокада із кораблів палає та йде до морського дна, Орда висаджується на узбережжя острова Терамор та атакує стіни міста. Коли орки починають свій забій, роки гноблення в людських руках наповнюють їх ненавистю та люттю, коли вони починають свій фінальний напад на самого адмірала Праудмура.
+}
+
+STRING 155
+// Units: otbk (Берсерк), Ubertip (Tooltip - Extended)
+{
+Гнучкий у використанні списоносець, ефективний проти повітряних військ. Має здібність берсерк, яка дозволяє йому завдавати більше шкоди, але й отримувати більше шкоди від атак. |n|n|cffffcc00Атакує наземні та повітряні війська.|r
+}
+
+STRING 157
+// Units: h008 (Admiral's Elite Guard), Name (Name)
+{
+Елітний вартовий адмірала
+}
+
+STRING 158
+{
+Тралл
+}
+
+STRING 159
+{
+Це не та Орда, яку ти пам'ятаєш, старий. Нас не цікавить завоювання чи убивства. Ми заплатили за гріхи наших попередників кров'ю.
+}
+
+STRING 160
+{
+Великий адмірал Праудмур
+}
+
+STRING 161
+{
+Чи може ваша кров спокутати геноцид, орку? Ваша Орда убила незліченну кількість невинних під час свого шаленства вздовж Штормовію та Лордерону. Ти справді думаєш, що ти можеш просто впустити це все і відкинути свою провину так просто? Ні, ваш рід ніколи не зміниться, а я ніколи не припиню із вами боротися.
+}
+
+STRING 162
+// Items: I006 (Athrikus' Ring of Power), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 165
+// Items: I006 (Athrikus' Ring of Power), Description (Description)
+{
+|cffff8c00Артефакт|r|nНечестивий перстень із викарбуваним іменем Атрікуса Нарассіна.
+}
+
+STRING 166
+// Items: mcou (Медальйон Хоробрості), Tip (Tooltip - Basic)
+{
+Купити медальйон хоробрості
+}
+
+STRING 167
+// Items: whwd (Зцілюючі Обереги), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 168
+{
+Великий адмірал Праудмур
+}
+
+STRING 169
+{
+За Лордерон!
+}
+
+STRING 170
+{
+Великий адмірал Праудмур
+}
+
+STRING 171
+{
+За сера Лотара!
+}
+
+STRING 172
+{
+Великий адмірал Праудмур
+}
+
+STRING 173
+{
+Смерть чорнокрівцям!
+}
+
+STRING 174
+// Doodads: D00B (Zone Enabled Rune), Name (Name)
+{
+Зона ввімкнута руна
+}
+
+STRING 175
+// Doodads: D00C (Zone Disabled Rune), Name (Name)
+{
+Зона відімкнута руна
+}
+
+STRING 176
+{
+Місто Терамор
+}
+
+STRING 177
+// Items: whwd (Зцілюючі Обереги), Tip (Tooltip - Basic)
+{
+Купити зцілюючі обереги
+}
+
+STRING 178
+// Items: rnsp (Перстень Досконалості), Tip (Tooltip - Basic)
+{
+Купити перстень досконалості
+}
+
+STRING 179
+// Items: hlst (Камінь Здоров'я), Tip (Tooltip - Basic)
+{
+Купити камінь здоров'я
+}
+
+STRING 180
+// Items: tint (Фоліант Розуму), Hotkey (Hotkey)
+{
+I
+}
+
+STRING 181
+// Items: I003 (Book of Town Portal), Tip (Tooltip - Basic)
+{
+Купити книгу міського порталу
+}
+
+STRING 182
+// Items: I004 (Tome of Forbidden Knowledge), Ubertip (Tooltip - Extended)
+{
+|cff87ceebУнікальний предмет|r|nЦей загадковий фоліант неймовірної сили миттєво збільшить на 3 одиниці силу, спритність та розум героя.
+}
+
+STRING 183
+// Items: tint (Фоліант Розуму), Tip (Tooltip - Basic)
+{
+Купити фоліант розуму
+}
+
+STRING 184
+// Units: n00M (Дирижабль), EditorSuffix (Name - Editor Suffix)
+{
+(Кінематик)
+}
+
+STRING 186
+// Items: I005 (Titan's Stone Necklace), Tip (Tooltip - Basic)
+{
+Купити кам'яне кольє титана
+}
+
+STRING 187
+// Items: I005 (Titan's Stone Necklace), Ubertip (Tooltip - Extended)
+{
+|cffff8c00Артефакт|r|nЗбільшує здоров'я та ману героя-носія на 400 одиниць.|n|cffffcc00Історія|r|n|cffffdeadЦе високомагічне кольє за чутками є подарунком, наданим меншим расам могутніми Титанами, коли вони були вдоволені самостійним поступом.|r
+}
+
+STRING 188
+// Items: I006 (Athrikus' Ring of Power), Name (Name)
+{
+Атрікусовий перстень сили
+}
+
+STRING 189
+// Items: I006 (Athrikus' Ring of Power), Tip (Tooltip - Basic)
+{
+Купити Атрікусовий перстень сили
+}
+
+STRING 191
+// Items: I007 (Bling Ring), Description (Description)
+{
+Bling Ring baby, Bling Ring.
+}
+
+STRING 192
+// Items: I007 (Bling Ring), Name (Name)
+{
+Перстень розкоші
+}
+
+STRING 193
+// Items: I007 (Bling Ring), Tip (Tooltip - Basic)
+{
+Купити перстень розкоші
+}
+
+STRING 195
+// Items: desc (Келенів Кинджал Утечі), Tip (Tooltip - Basic)
+{
+Купити Келенів кинджал утечі
+}
+
+STRING 200
+// Items: I000 (Вогнерукі Рукавиці), Tip (Tooltip - Basic)
+{
+Обрати вогнерукі рукавиці
+}
+
+STRING 201
+// Items: I000 (Вогнерукі Рукавиці), Ubertip (Tooltip - Extended)
+{
+|cff00ff00Винагорода за завдання|r|nПідсилюють броню героя-носія на <AId5,DataA1> одиниць і швидкість атак на <AIs2,DataA1,%>%.
+}
+
+STRING 273
+{
+Камінь воскрешення
+}
+
+STRING 291
+// Items: sror (Сувій Звіра), Hotkey (Hotkey)
+{
+B
+}
+
+STRING 308
+// Items: sror (Сувій Звіра), Tip (Tooltip - Basic)
+{
+Купити сувій звіра
+}
+
+STRING 310
+// Units: n00G (Centaur Ravager), Name (Name)
+{
+Кентавр-грабіжник
+}
+
+STRING 311
+// Units: n00H (Murloc Tidestalker), Name (Name)
+{
+Мурлок-хвилеловчий
+}
+
+STRING 314
+// Units: n00I (Quillboar Ranger), Name (Name)
+{
+Голкокнур-ловець
+}
+
+STRING 315
+// Units: n00J (Razormane Champion), Name (Name)
+{
+Лезогрив-чемпіон
+}
+
+STRING 316
+// Units: n00K (Spider Crab Leviathan), Name (Name)
+{
+Краб-павук-левіафан
+}
+
+STRING 317
+// Units: n00L (Harpy Thief), Name (Name)
+{
+Гарпія-грабіжниця
+}
+
+STRING 318
+// Units: nsrn (Некроліт Бурекрадів), Ubertip (Tooltip - Extended)
+{
+Сильний юніт дальнього бою із вміннями жага крові та ланцюгова блискавка. |n|n|cffffcc00Не може покинути Дуротар.|r |n|cffffcc00Атакує наземні та повітряні війська.|r
+}
+
+STRING 320
+// Units: o002 (Pack Beast), Ubertip (Tooltip - Extended)
+{
+Повільний звір, споряджений багатьма сховами для зберігання предметів, дозволяючи йому нести їх 6. |n|n|cffffcc00Не може покинути Дуротар.|r
+}
+
+STRING 321
+{
+Рекксарова скарбниця
+}
+
+STRING 323
+{
+Зведіть більше ферм для продовження створення військ.,Неможливо найняти більше найманців.,Викличте більше зіккуратів для продовження створення військ.,Створіть більше місячних джерел для продовження створення військ.
+}
+
+STRING 324
+// Units: nogl (Володар Оґрів), Ubertip (Tooltip - Extended)
+{
+Масивний, жорстокий оґрівський вояка. Має оборонну ауру і може накладати ударну хвилю.  |n|n|cffffcc00Не може покинути Дуротар.|r |n|cffffcc00Атакує наземні війська.|r
+}
+
+STRING 327
+{
+|cffff8c00УВАГА|r - Ви здатні керувати лишень своїми героями, поки намагаєтесь убити адмірала Праудмура. Решта вашої армії самочинно битимиться із військами адмірала.
+}
+
+STRING 330
+// Items: I001 (Арканитовий Щит), Tip (Tooltip - Basic)
+{
+Обрати арканитовий щит
+}
+
+STRING 331
+// Items: I001 (Арканитовий Щит), Ubertip (Tooltip - Extended)
+{
+|cff00ff00Винагорода за завдання|r|nЗменшує шкоду від дальніх атак до <AIdd,DataA1,%>%. Також збільшує броню героя-носія на <AId5,DataA1> одиниць.
+}
+
+STRING 332
+// Items: I002 (Обладунок Лезосмерті), Tip (Tooltip - Basic)
+{
+Обрати обладунок лезосмерті
+}
+
+STRING 333
+// Items: I002 (Обладунок Лезосмерті), Ubertip (Tooltip - Extended)
+{
+|cff00ff00Винагорода за завдання|r|nПідсилює броню військ біля героя-носія на <AIad,DataA1> одиниць. Покращує броню героя на <AId7,DataA1> одиниць.
+}
+
+STRING 334
+// Items: rde2 (Перстень Захисту +3), Hotkey (Hotkey)
+{
+P
+}
+
+STRING 335
+// Items: hlst (Камінь Здоров'я), Hotkey (Hotkey)
+{
+P
+}
+
+STRING 336
+// Items: mnst (Камінь Мани), Hotkey (Hotkey)
+{
+P
+}
+
+STRING 337
+// Items: mlst (Довбня Сили), Hotkey (Hotkey)
+{
+P
+}
+
+STRING 338
+// Doodads: D001 (P), Name (Name)
+{
+P
+}
+
+STRING 339
+// Items: rnsp (Перстень Досконалості), Hotkey (Hotkey)
+{
+Кентавр-мародер
+}
+
+STRING 340
+// Items: sor1 (Necklace of Burning Souls), Hotkey (Hotkey)
+{
+Кентавр-мародер
+}
+
+STRING 341
+// Items: mnsf (Розумопосох), Hotkey (Hotkey)
+{
+Кентавр-мародер
+}
+
+STRING 342
+// Items: I003 (Book of Town Portal), Hotkey (Hotkey)
+{
+Кентавр-мародер
+}
+
+STRING 343
+// Items: I005 (Titan's Stone Necklace), Hotkey (Hotkey)
+{
+Кентавр-мародер
+}
+
+STRING 344
+// Items: I007 (Bling Ring), Hotkey (Hotkey)
+{
+Кентавр-мародер
+}
+
+STRING 346
+// Buffs/Effects: B000 (Sea Elemental), Bufftip (Tooltip)
+{
+Кентавр-мародер
+}
+
+STRING 347
+// Units: h003 (Rexxar's Stash), Name (Name)
+{
+Рекксарова скарбниця
+}
+

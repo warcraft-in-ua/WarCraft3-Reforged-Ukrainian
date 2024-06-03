@@ -1,0 +1,5 @@
+[Categories]
+GiantClass=Велет
+UndeadClass=Невмерлі
+MechanicalClass=Механізм
+TaurenClass=Таурен
