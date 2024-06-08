@@ -13,9 +13,12 @@ StringList {
 
     ACCEPT                          "Прийняти",
     ACCOUNT_CREATION                "Створення акаунту",
+    ACCOUNT_CREATED                 "Account Created",
+    ACCOUNT_AGE                     "Account Age",
     ADD                             "Додати",
     ADVANCED_OPTIONS                "Додаткові налаштування",
     ALL                             "Всі",
+    ALL_PLAYERS                     "All Players",
     ALLIANCES                       "Альянси",
     ALLIED_ONLY                     "Лишень соратники",
     ALLIED_VICTORY                  "Перемога соратників",
@@ -1587,7 +1590,7 @@ StringList {
     COLLECTION_PORTRAIT_66_NAME     "Властитель пекельної безодні",
     COLLECTION_PORTRAIT_66_DESC     "Win 250 games in Tournaments.",
     COLLECTION_PORTRAIT_67_NAME     "Архімонд",
-    COLLECTION_PORTRAIT_67_DESC     "Виграйте 500 ігор в турнірах,
+    COLLECTION_PORTRAIT_67_DESC     "Виграйте 500 ігор в турнірах",
 
 
 
@@ -2526,7 +2529,7 @@ StringList {
     PRESS_TAB                                   "Натисніть TAB для зміни каналу.",
 
     /* 1.35.0 Updated Existing Strings */
-    KEY_CUSTOM_CAMPAIGN             "Custom C|CffffffffA|Rmpaign",
+    KEY_CUSTOM_CAMPAIGN          "|CffffffffК|RОРИСТУВАЦЬКІ КАМПАНІЇ",
 
     /* 1.36.0 New Strings */
     BYE_MODAL_TEXT_SOLO           "Ви автоматично переходите до наступного раунду! %s Будь ласка, дочекайтеся початку наступного раунду турніру.",
@@ -2773,17 +2776,6 @@ StringList {
     PLAYER_KICKED_BY_HOST   "Host kicked player %s",
     PLAYER_BANNED_BY_HOST   "Host banned player %s",
 
-    TIE                         "Tie",
-    TOURNAMENT_OPPONENT_SEARCHING       "Searching for opponents...",
-    TOURNAMENT_START_TIME_FORMAT        "ddd, MMM Do, YYYY h:mm a", // Becomes "Thu May 4th, 2023 3:31pm", see https://devhints.io/moment#formatting-1 for how to format
-    MATCH_HISTORY_DATE_FORMAT           "MM/DD/YY",     // "05/03/23"
-    MATCH_HISTORY_TIME_FORMAT           "HH:mm",        // 14:20
-    REFEREE_TEAM                        "Referee Team",
-    OBSERVER_TEAM           "Observer Team",
-    JOIN_GAME_SEARCH_FIELD_PLACEHOLDER      "|Cffffd428JOIN GAME|R by name",
-    JOIN_GAME                       "Join game",
-    BY_NAME                         "By Name",
-
     TIE                         "Нічия",
     TOURNAMENT_OPPONENT_SEARCHING       "Пошук супротивника...",
     TOURNAMENT_START_TIME_FORMAT          "DD.MM.YYYY H:mm",
@@ -2792,5 +2784,6 @@ StringList {
     REFEREE_TEAM                        "Команда суддів",
     OBSERVER_TEAM           "Команда спостерігачів",
     JOIN_GAME_SEARCH_FIELD_PLACEHOLDER      "|Cffffd428Приєднатися|R за назвою",
-    
+    JOIN_GAME                       "Під'єднатися до гри",
+    BY_NAME                         "По імені",
 }
