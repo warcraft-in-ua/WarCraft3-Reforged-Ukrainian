@@ -2509,7 +2509,7 @@ StringList {
     CURRENT_LABEL                               "Current",
 
     /* 1.35.0 New Strings */
-    CUSTOM_CAMPAIGNS_HEADER         "ДОДАТКОВІ КАМПАНІЇ",
+    CUSTOM_CAMPAIGNS_HEADER         "КОРИСТУВАЦЬКІ КАМПАНІЇ",
     SERVER_MSG_HOST_BANNED_PLAYER   "Власник заблокував гравця [%s]",
     SERVER_MSG_HOST_KICKED_PLAYER   "Власник виключив гравця [%s]",
     SERVER_MSG_WARN_DESYNC          "Увага: Десинхронізація гри виявлена гравцем [%s]",
