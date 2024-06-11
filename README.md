@@ -22,6 +22,6 @@ https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/archive/refs/head
 ![photo_2024-06-11_14-47-12](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/46dceeaa-c81d-449a-955a-b411691262d8)
 ![photo_2024-06-11_14-47-13](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/0a9edd63-3ef9-450e-a39a-b25a3e08f782)
 ![photo_2024-06-11_14-47-14](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/f1034f9a-eca6-4aff-baeb-470edd801f99)
-![photo_2024-06-11_14-47-15](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/f6a102cd-4e34-4563-a97c-26bbe3e3276f)
 ![photo_2024-06-11_14-48-46](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/e6ffaf75-d338-4e6a-9e06-a81b7bb23c32)
+![photo_2024-06-11_14-47-15](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/f6a102cd-4e34-4563-a97c-26bbe3e3276f)
 ![photo_2024-06-11_14-47-15 (2)](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/6bd7dae3-1ac9-46db-a7f5-f5c8c684e3fc)
