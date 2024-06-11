@@ -1,5 +1,5 @@
 ### Завантажити архівом
-
+------------
 Версія LIGHT ~ 37 МБ
  - Інтерфейс, назви одиниць, споруд та навичок і т.д.
  - [Завантажити Light](https://download-directory.github.io/?url=https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/tree/a120a6e183ca545117f34ef854c32b2cc9b5ffca/LIGHT%5BInterface%20only%5D&filename=reforged-ukrainian-light)
