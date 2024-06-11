@@ -12,11 +12,7 @@ https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/archive/refs/head
 ### Як встановити на Windows
 ### Як встановити на MacOS
 ### Хто автор перекладу?
-### Скріншоти
-<details>
- ![enter image description here](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/5b90b13f-bd93-4724-84b0-2f028e10a336)
-</details>
-
+### Скріншоти з гри
 ![photo_2024-06-11_14-47-09](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/5b90b13f-bd93-4724-84b0-2f028e10a336)
 ![photo_2024-06-11_14-48-46](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/b2d7300d-1976-442e-946f-70c1cc3827de)
 ![photo_2024-06-11_14-47-16](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/32651e2b-6c7d-4aa1-9269-c78d9fe513ad)
