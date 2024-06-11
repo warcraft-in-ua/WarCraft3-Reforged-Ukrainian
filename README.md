@@ -19,7 +19,7 @@
 ------------
 ### Відео демо 
 - https://youtu.be/IZFsbud6uCs
-- ~ 8 хвилин
+- ~ 8 хвилин [4K 60FPS]
 ------------
 ### Скріншоти з гри
 ![photo_2024-06-11_14-47-11](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/d6bb41e1-40d4-458e-823f-7ead7502bcf2)
