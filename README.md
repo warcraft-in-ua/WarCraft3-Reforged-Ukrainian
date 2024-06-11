@@ -8,11 +8,7 @@
  - Все що в Light а також
  - Повний переклад всіх кампанії, субтитри до роликів
  - [Завантажити FULL](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/archive/refs/heads/main.zip)
-------------
-### Як переклад виглядає в грі 
-- https://youtu.be/IZFsbud6uCs
-- ~ 8 хвилин
-------------
+
 ### Скріншоти
 ------------
 ### Як встановити на Windows
@@ -20,6 +16,10 @@
 ### Як встановити на MacOS
 ------------
 ### Хто автор перекладу?
+------------
+### Відео демо 
+- https://youtu.be/IZFsbud6uCs
+- ~ 8 хвилин
 ------------
 ### Скріншоти з гри
 ![photo_2024-06-11_14-47-11](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/assets/171568860/d6bb41e1-40d4-458e-823f-7ead7502bcf2)
