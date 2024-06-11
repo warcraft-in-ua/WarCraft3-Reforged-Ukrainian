@@ -1,0 +1,262 @@
+/*
+ *  Network Strings
+ *  ---------------
+ *
+ *  This file contains all strings that can be displayed in response to network activity.
+ *
+ */
+
+StringList {
+
+    // --- network error message (map to error id)
+    ERROR_ID_INVALIDPARAMS              "Надані параметри невірні.",
+    ERROR_ID_AUTOCANCEL                 "Battle.net самочинно скасував запит.",
+    ERROR_ID_BADPROVIDER                "Операцію завершено невдало, бо поточний провайдер мережі невірний.",
+    ERROR_ID_NOTINITIALIZED             "Операцію завершено невдало, бо провайдера мережі не ініціалізовано.",
+    ERROR_ID_ALREADYINITIALIZED         "Операцію завершено невдало, бо провайдера мережі вже ініціалізовано.",
+    ERROR_ID_GAMEPORTINUSE              "Інша програма використовує потрібний для гри порт. Закрийте її та спробуйте знову.",
+    ERROR_ID_GAMENOTFOUND               "Гру не знайдено.",
+    ERROR_ID_GAMEUNJOINABLE             "До обраної гри неможливо приєднатись.|N|NГра або не існує, або вже почалася.",
+    ERROR_ID_GAMEFULL                   "Обрана гра повна або її творець зачинив усі вільні місця, що лишились.",
+    ERROR_ID_GAMECLOSED                 "Обрана гра вже почалась.",
+    ERROR_ID_CANTCONNECT                "Неможливо під'єднатись.",
+    ERROR_ID_DISCONNECT                 "Ваше з'єднання із Battle.net було втрачено.",
+    ERROR_ID_NOTCONNECTED               "Операцію неможливо завершити, бо Ви не під'єднані.",
+    ERROR_ID_NOTIMPLEMENTED             "Ця функція не реалізована.",
+    ERROR_ID_VERSION_BAD                "Неможливо перевірити версію гри. Будь ласка, перепід'єднайтеся до Battle.net, або вручну встановіть найновіший патч для гри.",
+    ERROR_ID_CDKEY_INVALID              "Вказаний CD-ключ невірний.",
+    ERROR_ID_CDKEY_INUSE                "Вказаний CD-ключ зараз використовується %s. (%d)",
+    ERROR_ID_CDKEY_DISABLED             "Вказаний CD-ключ наразі відключений. (%d)",
+    ERROR_ID_CDKEY_LANGUAGE             "Версія, до якої Ви підключаєтеся потребує певної мовної версії Windows. (%d)",
+    ERROR_ID_CDKEY_MISMATCH             "Наданий CD-ключ не підходить для цього продукту.",
+    ERROR_ID_BADSERVER                  "Операцію завершено невдало, бо обраний сервер невірний.",
+    ERROR_ID_UNKNOWNACCOUNT             "Цього акаунту не існує.|n|nWarcraft III потребує нового акаунту Battle.net.|n|nБудь ласка, оберіть 'Створити новий акаунт', щоб обрати нове ім'я і пароль.",
+    ERROR_ID_UNSUPPORTEDACCOUNT         "Вказаний акаунт не підтримується Warcraft III.|n|nБудь ласка, оберіть 'Створити новий акаунт', щоб обрати нове ім'я і пароль.",
+    ERROR_ID_BADPASSWORD                "Введений Вами пароль неправильний.  Будь ласка, спробуйте знову.",
+    ERROR_ID_BADCDKEY                   "Наданий CD-ключ невірний.",
+    ERROR_ID_NAMEUSED                   "Вказане ім'я акаунту вже використовується.  Будь ласка, оберіть інше.",
+    ERROR_ID_NAMEBLANK                  "Не було вказано імені акаунту.  Будь ласка, введіть ім'я акаунту.",
+    ERROR_ID_NAMEBADCHARS               "Вказане ім'я акаунту містить неприпустимі символи.",
+    ERROR_ID_NAMEBADWORD                "Вказане ім'я акаунту містить неприпустимі слова.",
+    ERROR_ID_NEEDALPHACHARS             "Вказане ім'я акаунту не має достатньо символів алфавіту.",
+    ERROR_ID_ADJACENTPUNCT              "Вказане ім'я акаунту має забагато прилеглих знаків пунктуації.",
+    ERROR_ID_TOOMANYPUNCT               "Вказане ім'я акаунту має забагато знаків пунктуації.",
+    ERROR_ID_NOTLOGGEDON                "Операцію неможливо завершити, бо Ви не увійшли.",
+    ERROR_ID_NOTINCHAT                  "Операцію завершено невдало, бо Ви не в чаті.",
+    ERROR_ID_UPGRADEFAILED              "Помилка під час встановлення оновлення.",
+    ERROR_ID_FLOODDETECTED              "Було виявлено флуд мережі.|n|nВас від'єднано від Battle.net",
+    ERROR_ID_GAMETYPEDISABLED           "Обраний тип гри було відключено.",
+    ERROR_ID_GAMECREATEFAILED           "Створення гри пройшло невдало.",
+    ERROR_ID_REQUESTDENIED              "Операцію скасовано.",
+    ERROR_ID_ANONFINDFAILED             "Battle.net не може знайти Вам гру. Будь ласка, почекайте кілька хвилин і спробуйте знову.",
+    ERROR_ID_ANONFINDCANCELLED          "Анонімний пошук гри було скасовано.",
+    ERROR_ID_ANONFINDBADVERSION         "Типи ігор на Battle.net оновлено.|n|nБудь ласка, передивіться Ваші налаштування гри і натисніть 'Грати гру' знову.",
+    ERROR_ID_ANONFINDNOOPPONENT         "Ваш супротивник показався для гри.",
+    ERROR_ID_DOWNLOADFAILED             "Виникла помилка під час спроби завантаження файлу із Battle.net.",
+    ERROR_ID_DOWNLOADFAILED_BADSIZE     "Недостатньо місця на Вашому жорсткому диску для завантаження файлу із Battle.net. Будь ласка, звільніть місце на жорсткому диску і спробуйте ще раз.",
+    ERROR_ID_DOWNLOADFAILED_WRITE       "Виникла помилка запису на Ваш жорсткий диск під час спроби завантаження файлу із Battle.net. Можливо, Вам треба звільнити місце. Будь ласка, перевірте Ваш жорсткий диск і спробуйте знову.",
+    ERROR_ID_FILENOTFOUND               "Файл не знайдено на Battle.net.", 
+    ERROR_ID_ANONFINDQUOTAFILLED        "Ви досягнули максимальної кількості ігор для типу гри '%s'.",
+    ERROR_ID_ANONFINDCDKEYDISABLED      "Ваш CD-ключ не має доступу до ladder-гри.",
+    ERROR_ID_ANONFINDSAMEACCOUNT        "Неможливо шукати супротивників. Двоє або більше членів Вашої команди мають однакові імена акаунту.",
+    ERROR_ID_TEMPORARY_RESTRICTION      "Вам тимчасово обмежили доступ до сервера. Будь ласка, спробуйте знову пізніше.",
+    ERROR_ID_MAX_CONNECTIONS            "Максимальної кількості з'єднань з цієї локально ip-адреси було досягнуто. Будь ласка, спробуйте пізніше знову.",
+
+    // --- miscellaneous error messages
+    NETERROR_NOUSERNAME                 "Будь ласка, введіть ім'я акаунту.",
+    NETERROR_NOPASSWORD                 "Будь ласка, введіть пароль.",
+    NETERROR_LOGINNOUSERNAME            "Будь ласка, введіть ім'я Вашого акаунту.",
+    NETERROR_LOGINNOPASSWORD            "Будь ласка, введіть Ваш пароль.",
+    NETERROR_REPEATPASSWORD             "Будь ласка, повторіть Ваш пароль.",
+    NETERROR_PASSWORDMISMATCH           "Ці паролі не збігаються.",
+    NETERROR_USERNAMEPASSWORD           "Ваш пароль не може збігатися із іменем Вашого акаунту.",
+    NETERROR_USERNAMETOOSHORT           "Ваше ім'я акаунту мусить мати як мінімум 3 символів.",
+    NETERROR_PASSWORDTOOSHORT           "Ваш пароль мусить мати як мінімум 3 символи.",
+    NETERROR_NEWPASSWORDTOOSHORT        "Ваш новий пароль мусить мати як мінімум 3 символи.",
+    NETERROR_NOCURRENTPASSWORD          "Будь ласка, введіть Ваш поточний пароль.",
+    NETERROR_NONEWPASSWORD              "Будь ласка, введіть новий пароль.",
+    NETERROR_REPEATNEWPASSWORD          "Будь ласка, повторіть новий пароль.",
+    NETERROR_NEWPASSWORDMISMATCH        "Ці паролі не збігаються.",
+    NETERROR_NEWUSERNAMEPASSWORD        "Ваш новий пароль не може збігатися із іменем Вашого акаунту.",
+    NETERROR_DEFAULTERROR               "Виникла помилка під час обробки запиту.",
+    NETERROR_CORRUPTSAVE                "Виникла помилка під час спроби завантаження збереженої гри.|n|nФайл збереження недоступний або його пошкоджено.",
+    NETERROR_NOGAMESPECIFIED            "Ви мусите обрати гру, щоб приєднатись.",
+    NETERROR_NOMAPSELECTED              "Ви мусите обрати карту.",
+    NETERROR_NOREPLAYSELECTED           "Ви мусите обрати повтор.",
+    NETERROR_NOSAVEDGAMESELECTED        "Ви мусите обрати збережену гру.",
+    NETERROR_MAPLOADERROR               "Виникла помилка під час спроби завантаження вказаної карти.|n|nКарта недоступна або її пошкоджено.",
+    NETERROR_NOGAMENAMESPECIFIED        "Ми мусите вказати назву, щоб створити гру.",
+    NETERROR_EMPTYGAMENAMESPECIFIED     "Гра не може бути названою лишень пропусками.|n|nБудь ласка, введіть назву гри, яка містить символи алфавіту.",
+    NETERROR_CREATEGAMEFAILED           "Гру не вдалося створити вказаною.|n|nМожливо, вже є гра із такою назвою або назва гри, яку Ви обрали неприйнятна.",
+    NETERROR_JOINGAMEFAILED             "Неможливо під'єднатись до вказаної гри.|n|nБудь ласка, спробуйте знову, або оберіть іншу гру.",
+    NETERROR_NOREALMSELECTED            "Будь ласка, оберіть шлюз.",
+    NETERROR_COULDNOTCONNECT            "Не вдалося під'єднатися до мережі.",
+    NETERROR_CUSTOMGAMEDISABLED         "Власні ігри поки-що відімкнуто.|n|nБудь ласка, оберіть інший тип гри, або спробуйте пізніше.",
+    NETERROR_STANDARDGAMEDISABLED       "Стандартні ігри поки-що відімкнуто.|n|nБудь ласка, оберіть інший тип гри, або спробуйте пізніше.",
+    NETERROR_JOINGAMENOTFOUND           "Гру, до якої Ви спробували під'єднатися не знайдено.|n|nМожливо, Ви ввели неправильну назву або творець цієї гри скасував гру.",
+    NETERROR_CANTCONNECTBNET            "Неможливо під'єднатися до Battle.net.|n|nМожливо, Ви намагаєтеся під'єднатися до невірного сервера Battle.net.  Якщо Ви користуєтесь модемом, можливо, Вам потрібно вручну під'єднатися до Інтернету перед під'єднанням до Battle.net.",
+	NETERROR_CANTLOADREPLAYFILE         "Не вдалося завантажити файл повтору.",
+	NETERROR_CANTLOADREPLAYDATA         "Не вдалося завантажити дані повтору.",
+    NETERROR_CANTFINDREPLAYMAP          "Пов'язаний із повтором файл карти не знайдено.|n|nБудь ласка, переконайтеся, що файл карти '%s', що використовується записаною грою існує і спробуйте знову.",
+	NETERROR_CANTLOADREPLAYMAP          "Пов'язаний із повтором файл карти не вдалося завантажити.|n|nВаша версія файлу карти '%s' використана записаною грою або пошкоджена або відрізняється від версії, використаної у повторі.",
+	NETERROR_BADREPLAYVERSION           "Ці дані повтору для іншої версії Warcraft III.",
+    NETERROR_BADREPLAYPROGRAM_CLASSIC   "Ви мусите запустити класичний Warcraft III, щоб переглянути цей повтор.",
+    NETERROR_BADREPLAYPROGRAM_EXPANSION "Ви мусите запустити Warcraft III із доповненням, щоб переглянути цей повтор.",
+    NETERROR_NOCHANNELNAME              "Будь ласка, введіть назву каналу, щоб приєднатись.",
+    NETERROR_TEAMMUSTBEFULL             "Ви не можете почати пошук гри, поки усі члени команди не приймуть Ваше запрошення і не приєднаються до Вашої команди.",
+    NETERROR_NOGAMETYPESELECTED         "Будь ласка, оберіть тип гри.",
+    NETERROR_JOINTEAMGAMENOTFOUND       "Командну гру, до якої Ви спробували приєднатися не знайдено.|n|nМожливо, творець гри скасував гру або інший однокомандник відмовився приєднатися до команди.",
+    NETERROR_JOINTEAMCANTCONNECT        "Неможливо приєднатися до команди.|N|NМожливо, це сталося, бо комп'ютер творця гри налаштовано, щоб блокувати вхідні з'єднання.  |N|NІнакше, можливо, що Ви не можете надіслати відповідь на запрошення через власне налаштування фаєрволу.  Будь ласка, переконайтеся, що Ваш фаєрвол дозволяє вихідні з'єднання на порті гри.",
+    NETERROR_NOPLAYERNAMESPECIFIED      "Будь ласка, введіть ім'я гравця.",
+    NETERROR_MAPAUTHFAILED              "Не вдалося авторизувати карту.",
+    NETERROR_MAPFILEBADSIZE             "Файл карти надто великий. Будь ласка, оберіть іншу карту.",
+    NETERROR_MAPFILENOTFOUND            "Не вдалося знайти файл карти.",
+    NETERROR_MAPFILEREAD                "Виникла помилка під час читання файлу карти.",
+    NETERROR_MAPFILEINCOMPLETE          "Виникла помилка під час завантаження файлу карти.",
+    NETERROR_MAPFILEWRITE               "Виникла помилка під час записування файлу карти.",
+    NETERROR_MAPFILENAMEINVALID         "Назва файлу карти надто довга або містить неприпустимі символи.",
+    NETERROR_TEAMMATECOUNT              "Вам треба обрати як мінімум одного однокамандівця для запрошення.",
+    NETERROR_WOULDFLOOD                 "Ви надсилаєте команди до Battle.net надто швидко і ризикуєте від'єднатися через флуд. Будь ласка, охолоньте.",
+    NETERROR_SAVEGAMENOTFOUND           "Вказана гра потребує файлу збереження гри, якого не знайдено.",
+    NETERROR_BADMAP                     "Одна або більше Ваших офіційних карт Blizzard відсутня або пошкоджена. Будь ласка, перевстановіть гру.",
+    NETERROR_DIFFERENTSAVEFILE          "Файл збереження, яким Ви володієте для цієї гри відрізняється від файлу збереження творця.|n|nАбо Вас не було у цій грі, коли її зберегли, або Ваш файл збереження пошкоджено.",
+    NETERROR_WRONGMAPINSAVEFILE         "Файл карти, вказаний збереженою грою відрізняється від файлу карти на Вашому жорсткому диску.",
+    NETERROR_CLANMATECOUNT              "Ви мусите обрати рівно 9 інших користувачів, щоб створити новий клан.",
+    NETERROR_NEEDCLANNAME               "Ви мусите ввести назву клану, щоб створити клан.",
+    NETERROR_NEEDCLANTAG                "Ви мусите ввести тег клану, щоб створити клан.",
+    NETERROR_CLANTAGSIZE                "Ваш тег клану мусить містити від 2 до 4 символів.",
+    NETERROR_INVALIDTOURNAMENTID        "Виникла помилка під час ідентифікації турніру, до якого Ви приєдналися.  Можливо, Ви маєте старі чи невірні дані конфігурації.",
+    NETERROR_CLANDISBANDTOOSOON         "Неможливо розпустити клан, бо пройшло недостатньо часу від створення клану.",
+    NETERROR_MISSINGMMDATA              "Неможливо почати гру, бо виникла проблема під час отримання потрібних даних підбору матчів з Battle.net.  Будь ласка, спробуйте знову пізніше.",
+    NETERROR_MISSINGMMDATAQUICK         "Неможливо почати пошук швидкої гри, бо виникла проблема під час отримання потрібних даних підбору матчів з Battle.net.|N|NБудь ласка, зайдіть до екрану стандартної гри, використовуючи кнопку 'Грати гру', щоб отримати вірні дані і поставити свої налаштування.|N|NЯкщо ця проблема продовжиться, спробуйте знову.",
+    NETERROR_MISSINGMMDATASCHED         "Неможливо почати пошук запланованої гри, бо виникла проблема під час отримання потрібних даних підбору матчів з Battle.net.",
+    NETERROR_MISSINGMMDATAQUESTION      "Неможливо почати пошук гри, бо виникла проблема під час отримання потрібних даних підбору матчів з Battle.net.|N|NБажаєте спробувати отримати цю інформацію знову?|N|NУвага: якщо ця проблема продовжиться, спробуйте знову пізніше.",
+    NETERROR_NEEDMMDATAUPDATE           "Дані підбору матчів на Battle.net оновлено.|N|NБудь ласка, зайдіть до екрану стандартної гри, використовуючи кнопку 'Грати гру', щоб отримати нові дані і поставити свої налаштування для усіх змінених типів гри.",
+    NETERROR_NEEDMMDATAUPDATETEAM       "Дані підбору матчів на Battle.net оновлено.|N|NБудь ласка, перестворіть команду, щоб отримати нові дані та поставити свої налаштування для усіх змінених типів гри.",
+    NETERROR_UPDATEFAILEDTEAM           "Виникла проблема під час отримання даних підбору матчів, потрібних для ігор із злагодженими командами.  Будь ласка, спробуйте знову пізніше.",
+    NETERROR_CLANCREATETIMEOUT          "Створення клану пройшло невдало, бо Battle.net не вдалося отримати відповіді на запрошення від одного або більше запрошених.|N|NБудь ласка, переконайтеся, що усі запрошені доступні і будуть, а тоді спробуйте створити клан знову.",
+    NETERROR_NOCAMPAIGNSELECTED         "Ви мусите обрати власну кампанію.",
+    NETERROR_REQUIREDMATECOUNT          "Ви мусите обрати рівно %d однокомандівців, щоб створити цю команду.",
+    NETERROR_REQUIREDMATECOUNT_ONE      "Ви мусите обрати рівно 1 однокомандівця, щоб створити цю команду.",
+    NETERROR_CANTSAVE                   "Недостатньо вільного місця на диску для збереження гри.  Будь ласка, звільніть місце на диску і тоді спробуйте знову.",
+    NETERROR_CHANNELISRESTRICTED        "Канал '%s' є забороненим каналом, і Ви не можете до нього приєднатися.",
+    NETERROR_CHANNEISFULL               "Канал '%s' наразі повний, Ви не можете до нього приєднатись.",
+    NETERROR_ANONFINDTIMEOUT            "Неможливо почати пошук гри.|N|NБудь ласка, спробуйте пізніше.",
+    NETERROR_ANONFINDTIMEOUT_TOURN      "Battle.net не вдалося почати гру, бо один або більше Ваших однокомандівців не з'явились.|N|NЦю гру скасовано.",
+    NETERROR_CANTCONNECTGAMEJOIN        "Неможливо під'єднатися до гри.|N|NЦе може статися через втрату з'єднання із мережею.  Будь ласка, перевірте, чи Ви досі під'єднані до мережі.",
+    NETERROR_CLANCANTRANKINITIATE       "Ви не можете змінити ранг цього члена клану, поки не закінчиться його випробовувальний період.",
+    NETERROR_CLANCANTREMOVEINITIATE     "Ви не можете вигнати цього члена клану, поки не закінчиться його випробовувальний період.",
+    NETERROR_CLANCANTDESIGNATEINITIATE  "Ви не можете передати керування кланом цьому члену клану, поки не закінчиться його випробовувальний період.",
+    NETERROR_CLANCANTLEAVEINITIATE      "Ви не можете покинути клан як новий член клану.  Ви зможете покинути клан, коли мине Ваш випробовувальний період.",
+    NETERROR_NOEMAIL                    "Будь ласка, введіть електронну скриньку.",
+    NETERROR_NOOLDEMAIL                 "Будь ласка, введіть Вашу стару електронну скриньку.",
+    NETERROR_NONEWEMAIL                 "Будь ласка, введіть Вашу нову електронну скриньку.",
+    NETERROR_REPEATNEWEMAIL             "Будь ласка, підтвердьте Вашу нову електронну скриньку, ввівши її знову.",
+    NETERROR_NEWEMAILMISMATCH           "Електронні скриньки не збігаються.",
+    NETERROR_INVALIDEMAIL               "Будь ласка, введіть дійсну електронну скриньку.",
+    NETERROR_REPEATEMAIL                "Будь ласка, перевірте Вашу електронну скриньку перед тим, як вводити її знову.",
+    NETERROR_EMAILMISMATCH              "Електронні скриньки не збігаються.",
+    NETERROR_BONJOURFAILED              "Не вдалося активувати сервіс Bonjour.",
+    NETERROR_UPDATEFAILED               "Оновлення пройшло невдало, бажаєте відкрити браузер для вирішення проблеми?",
+	
+    // --- misc net messages
+    NETMESSAGE_ACCOUNTCREATE            "Ваш акаунт створено.|n|nНатисніть OK, щоб увійти до Battle.net на новому акаунті.",
+    NETMESSAGE_PASSWORDCHANGE           "Ваш пароль змінено.",
+    NETMESSAGE_ANONFINDREQUEST          "Надсилання запиту пошуку гри...",
+    NETMESSAGE_ANONFINDINPROGRESS       "Пошук підхожої гри...",
+    NETMESSAGE_ANONFINDFOUND            "Підхожу гру знайдено.",
+    NETMESSAGE_ANONFINDCANCELING        "Скасування пошуку...",
+    NETMESSAGE_ANONJOINWAIT             "Очікування на інших гравців...",
+    NETMESSAGE_ANONJOINTIMEOUT          "Не вдалося приєднатися до гри, бо іншого гравця не з'явилось.|n|nБудь ласка, пошукайте ще раз.",
+    NETMESSAGE_PLAYERJOINED             "|CFFAAAAAA%s приєднався до гри.",
+    NETMESSAGE_PLAYERLEFT               "|CFFAAAAAA%s покинув гру.",
+    NETMESSAGE_NOPROFILE                "Для цього акаунту немає даних профілю.",
+    NETMESSAGE_CLANRANKSUCCESS          "Ранг %s змінено.",
+    NETMESSAGE_CLANADDSUCCESS           "%s прийняв Ваше запрошення і приєднався до клану.",
+    NETMESSAGE_CLANREMOVESUCCESS        "%s вигнали із клану.",
+    NETMESSAGE_CLANLEAVESUCCESS         "Ви покинули клан.",
+    NETMESSAGE_CLANDESIGNATESUCCESS     "%s тепер новий лідер клану.",
+    NETMESSAGE_CLANDISBANDED            "Клан було розпущено.",
+    NETMESSAGE_CLANDISBANDCONFIRM       "Розпущення клану вижене усіх членів із клану та очистить усі дані рангу клану.  Це незворотня дія, оскільки ці дані неможливо буде потім відновити.|n|nВи певні, що хочете розпустити клан?",
+	NETMESSAGE_CLANDESIGNATECONFIRM     "Ви збираєтесь призначити члена клану |Cfffed312%s|R новим лідером клану.  Ви певні, що бажаєте це зробити?",
+    NETMESSAGE_EMAILCHANGE              "Ваш запит на зміну електронної скриньки надіслано.  Якщо стара електронна скринька, введена Вами співпадає із тою, що зараз прив'язана до акаунту, електронного листа буде відправлено до цієї скриньки із подальшими інструкціями.",
+    NETMESSAGE_PASSWORDRECOVERY         "Ваш запит на новий пароль отримано.  Якщо Ви зареєстрували електронну скриньку для цього акаунту, Ви отримаєте електронного листа із інструкціями для завершення зміни Вашого паролю.",
+    NETMESSAGE_EMAILBIND                "Вказану електронну скриньку зареєстровано на Ваш акаунт.",
+    NETMESSAGE_CONFIRMNOEMAILBIND       "Без зареєстрованої електронної скриньки Ви не зможете відновити свій акаунт, якщо Ви забудете пароль. У Вас не буде іншої можливості зареєструвати електронну скриньку на цьому акаунті.|N|NВи певні, що не хочете зареєструвати свою електронну скриньку?",
+    NETMESSAGE_INSTALLBONJOUR           "Для повного функціонування LAN потрібен Bonjour. Бажаєте активувати Bonjour?",
+
+    // --- clan result codes
+    CLAN_RESULT_TOOSOON                 "Не вдалося створити клан, бо Ви вже створили клан під час мінімального періоду створення клану.",
+    CLAN_RESULT_NAMEINUSE               "Тег клану, який Ви обрали вже використовується іншим кланом.  Будь ласка, оберіть інший тег клану.",
+    CLAN_RESULT_DECLINE                 "|Cfffed312%s|R відхилив Ваше запрошення на приєдання до клану.",
+    CLAN_RESULT_UNAVAILABLE             "|Cfffed312%s|R не вдалося отримати Ваше запрошення до клану.  |N|NЩоб отримати запрошення до клану, гравець не має бути в іншому клані і мусить зараз бути у чат-кімнаті Battle.net.  |N|NГравці також не можуть отримувати запрошення, коли вони шукають гру.",
+    CLAN_RESULT_NOTALLOWED_NAMED        "Вам не дозволено виконувати цю дію на %s.",
+    CLAN_RESULT_NOTAUTHORIZED_NAMED     "Ви не авторизовані, щоб виконати цю дію на %s.",
+    CLAN_RESULT_NOTALLOWED              "Вам не дозволено виконувати цю дію.",
+    CLAN_RESULT_NOTAUTHORIZED           "Ви не авторизовані, щоб виконати цю дію",
+    CLAN_RESULT_CLANFULL                "Не вдалося запросити до клану нових членів, оскільки клан досягнув максимальної кількості членів.",
+    CLAN_RESULT_NOTENOUGH               "CLAN_RESULT_NOTENOUGH",
+    CLAN_RESULT_BADTAG                  "Тег клану, який Ви обрали неприйнятний.  Будь ласка, оберіть інший тег клану.",
+    CLAN_RESULT_BADNAME                 "Назва клану, яку Ви обрали неприйнятна.  Будь ласка, оберіть іншу назву клану.",
+
+    // --- tournament result codes
+    TOURNAMENT_SIGNUP_RESULT_SIGNEDUP   "Ви успішно приєдналися до турніру.",
+    TOURNAMENT_SIGNUP_RESULT_INELIGIBLE "Ви не маєте права приєднатися до цього турніру.",
+    TOURNAMENT_LEAVE_RESULT_OK          "Ви покинули цей турнір.",
+    TOURNAMENT_LEAVE_RESULT_TEAMMATELEFT "Вас викинуло із Вашого поточного турніру, бо Ваш однокомандівець покинув турнір.",
+    TOURNAMENT_LEAVE_RESULT_NOTOURNAMENT "Ви ще наразі не увійшли до турніру.",
+
+    
+    // --- chatdisplay colors
+    CHATCOLOR_TALK_USER                 "|CFFFED312",
+    CHATCOLOR_TALK_MESSAGE              "|CFFFFFFFF",
+    CHATCOLOR_WHISPER_USER              "|CFFFED312",
+    CHATCOLOR_WHISPER_MESSAGE           "|CFF00FF00",
+    CHATCOLOR_WHISPERSENT_USER          "|CFFFED312",
+    CHATCOLOR_WHISPERSENT_MESSAGE       "|CFF00FF00",
+    CHATCOLOR_INFO_MESSAGE              "|CFF80D8FF",
+    CHATCOLOR_BROADCAST_MESSAGE         "|CFF80D8FF",
+    CHATCOLOR_EMOTE_MESSAGE             "|CFF888888",
+    CHATCOLOR_ERROR_MESSAGE             "|CFFFF0000",
+
+    // --- chatdisplay messages (map to chatevent id)
+    CHATEVENT_ID_TALK                   "%s%s:|R %s%s |R",
+        // 1:CHATCOLOR_TALK_USER
+        // 2:<username>
+        // 3:CHATCOLOR_TALK_MESSAGE
+        // 4:<message>
+    CHATEVENT_ID_WHISPER                "%s%s шепоче:|R %s%s |R",
+        // 1:CHATCOLOR_WHISPER_USER
+        // 2:<username>
+        // 3:CHATCOLOR_WHISPER_MESSAGE
+        // 4:<message>
+    CHATEVENT_ID_WHISPERSENT            "%sВи шепочете до %s:|R %s%s |R",
+        // 1:CHATCOLOR_WHISPERSENT_USER
+        // 2:<username>
+        // 3:CHATCOLOR_WHISPERSENT_MESSAGE
+        // 4:<message>
+    CHATEVENT_ID_INFORMATION            "%s%s |R",
+        // 1:CHATCOLOR_INFO_MESSAGE
+        // 2:<message>
+    CHATEVENT_ID_BROADCAST              "%s%s |R",
+        // 1:CHATCOLOR_BROADCAST_MESSAGE
+        // 2:<message>
+    CHATEVENT_ID_EMOTE                  "%s%s %s |R",
+        // 1:CHATCOLOR_EMOTE_MESSAGE
+        // 2:<username>
+        // 3:<message>
+    CHATEVENT_ID_ERROR                  "%s%s |R",
+        // 1:CHATCOLOR_ERROR_MESSAGE
+        // 2:<message>
+	
+	// --- team message colors
+    TEAMMESSAGECOLOR_USER               "|CFF33BBFF",
+    TEAMMESSAGECOLOR_MESSAGE            "|CFF7FEAFF",
+	
+    TEAMMESSAGE_ID_MESSAGE              "%s[Команді] %s:|R %s%s |R",
+        // 1:TEAMMESSAGECOLOR_USER
+        // 2:<username>
+        // 3:TEAMMESSAGECOLOR_MESSAGE
+        // 4:<message>
+}
+

@@ -1,0 +1,10 @@
+// Non-race-specific upgrades
+// glyph of fortification
+[Rgfo]
+Name=Знак фортифікації,Знак фортифікації,Знак фортифікації
+EditorSuffix= (Вдосконалення 1), (Вдосконалення 2), (Вдосконалення 3)
+
+// glyph of ultravision
+[Rguv]
+Name=Знак гіперзору
+EditorSuffix= (Вдосконалення)

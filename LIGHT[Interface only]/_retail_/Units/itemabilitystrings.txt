@@ -1,0 +1,1087 @@
+// Item abilities are generally activated via the inventory UI and not through their own hotkeys
+
+// Rune of the Watcher
+[APwt]
+Name=Руна сторожа
+
+// Blink (item)
+[AIbk]
+Name=Мерехтіння (версія предмета)
+
+// One time permanent strength gain ability, usually on a Tome
+[AIsm]
+Name=Предмет додавання сили
+
+// One time permanent agility gain ability, usually on a tome
+[AIam]
+Name=Предмет додавання спритності
+
+// short duration single target speed bonus
+[AIsp]
+Name=Предмет тимчасовий бонус швидкості
+
+// continuous Attack Bonus
+[AIat]
+Name=Предмет бонус атаки
+EditorSuffix=(+3)
+
+// continuous Defense Bonus
+[AIde]
+Name=Предмет бонус броні
+
+// area of effect damage of destructables
+[AIdm]
+Name=Предмет ділянка шкоди деревам/стінам
+
+// One time permanent hero experience gain, usually on a tome
+[AIem]
+Name=Предмет додавання досвіду
+
+[AIe2]
+Name=Предмет додавання досвіду
+EditorSuffix= (Більше)
+
+// Cloud of Fog
+[AIfg]
+Name=Хмара туману
+Tip=Хмара туману
+Ubertip="Створює малу хмару, що не дозволяє стріляти будівлям із дальньою атакою. |nТриває <Aclf,Dur1> секунд."
+Hotkey=C
+
+// Flag Ability, to show something on a hero carrying the flag
+[AIfl]
+Name=Предмет захопити прапор
+
+// human flag
+[AIfm]
+Name=Предмет захопити прапор
+EditorSuffix=(Люди)
+
+// night elf flag
+[AIfn]
+Name=Предмет захопити прапор
+EditorSuffix=(Нічні Ельфи)
+
+// orc flag
+[AIfo]
+Name=Предмет захопити прапор
+EditorSuffix=(Орки)
+
+// undead flag
+[AIfe]
+Name=Предмет захопити прапор
+EditorSuffix=(Невмерлі)
+
+// One time permanent hero level gain, usually on a tome
+[AIlm]
+Name=Предмет додавання рівня
+
+// One time permanent intelligence gain, usually on a Tome
+[AIim]
+Name=Предмет додавання розуму
+
+// One time permanent int/agi/str gain
+[AIxm]
+Name=Предмет додавання Роз/Спр/Сил
+
+// single shot one target healing (potions, typically)
+[AIhe]
+Name=Предмет зцілення
+
+[AIhx]
+Name=Предмет зцілення
+EditorSuffix=(менше)
+
+// single shot group area effect healing (scrolls, typically)
+[AIha]
+Name=Предмет ділянка зцілення
+
+[AIhb]
+Name=Предмет ділянка зцілення
+EditorSuffix= (Більше)
+
+// single shot group area effect healing (powerup, lesser)
+[APh1]
+Name=Бонус ділянка зцілення менше
+
+// single shot group area effect healing (powerup)
+[APh2]
+Name=Бонус ділянка зцілення
+
+// single shot group area effect healing (powerup, greater)
+[APh3]
+Name=Бонус ділянка зцілення більше
+
+
+// short duration single target invisibility (potion)
+[AIvi]
+Name=Предмет тимчасова невидимість
+
+// short duration single target invulnerability (potion)
+[AIvu]
+Name=Предмет тимчасова невразливість
+
+[AIvl]
+Name=Предмет тимчасова невразливість
+EditorSuffix= (Менша)
+
+[AIvg]
+Name=Предмет тимчасова невразливість
+EditorSuffix= (Божественність)
+
+// single shot one target mana regain (potions, typically)
+[AIma]
+Name=Предмет відновлення мани
+
+// single shot group area effect mana regain (scrolls, typically)
+[AImr]
+Name=Предмет відновлення мани ділянка
+
+// single shot group area effect mana regain (rune)
+[APmr]
+Name=Руна відновлення мани ділянка
+
+// single shot group area effect mana regain (rune, greater)
+[APmg]
+Name=Руна відновлення мани ділянка Більше
+
+// single shot one target life/mana restore (potion)
+[AIre]
+Name=Предмет відновлення здоров'я/мани
+
+// single shot group area effect life/mana restore (scroll)
+[AIra]
+Name=Предмет відновлення здоров'я/мани ділянка
+
+// single shot group area effect life/mana restore (rune)
+[APra]
+Name=Руна відновлення здоров'я/мани ділянка
+
+// area of effect application of a defensive buff (scroll of protection)
+[AIda]
+Name=Предмет тимчасова ділянка бонус броні
+
+// area of effect application of a defensive buff (scroll of protection) (with healing)
+[AIdb]
+Name=Предмет тимчасова ділянка бонус броні
+EditorSuffix= (із зціленням життя і мани)
+
+// buff that AIda applies
+[Bdef]
+Bufftip=Сувій захисту
+Buffubertip="Цей юніт під дією сувою захисту; його броню тимчасово збільшено."
+
+// area of effect detection (crystal ball)
+[AIta]
+Name=Предмет виявлення ділянки
+
+// continuous Mana regeneration (ring)
+[AIrm]
+Name=Предмет відновлення мани
+
+[AIfi]
+Name=Предмет вогнестріла
+
+// Illusion generator
+[AIil]
+Name=Предмет ілюзії
+
+[BIil]
+Bufftip=Ілюзія
+Buffubertip="Цей юніт є ілюзією; він отримуватиме додаткову шкоду від ворогів."
+
+// Dispel effect
+[AIdi]
+Name=Предмет розсіяти
+
+[AIds]
+Name=Предмет розсіяти
+EditorSuffix= (із перервою)
+
+// Dispel effect (powerup)
+[APdi]
+Name=Покращення розсіяти
+
+// Hero attacks get fire damage bonus, persistent, Orb of Fire
+[AIfb]
+Name=Предмет атака вогняний бонус
+
+// Hero attacks get lightning damage bonus, persistent, Orb of Lightning
+[AIlb]
+Name=Предмет атака електричний бонус
+
+// Hero attacks get black arrow bonus
+[AIdf]
+Name=Предмет атака Чорна Стріла бонус
+
+// purge portion of lightning orb
+[AIlp]
+Name=Предмет очистити
+EditorSuffix= (1)
+
+// Hero attacks get frost damage bonus, persistent, Orb of Frost
+[AIob]
+Name=Предмет атака крижаний бонус
+
+[AIpb]
+Name=Предмет атака отруйний бонус
+
+[AIcb]
+Name=Предмет атака бонус осквернення
+
+[BIcb]
+Bufftip=Осквернення
+Buffubertip="Цього юніта зачепило сферою осквернення; його броню тимчасово зменшено."
+
+// Hero sight range increase, persistent, Telescope
+[AIsi]
+Name=Предмет бонус поля зору
+
+// Soul Gem Hero soul theft ability
+[AIso]
+Name=Предмет крадіжка душі
+
+// Soul Gem Hero soul-carying ability - remove this to release the soul
+[Asou]
+Name=Предмет одержимість душі
+
+// caster buff for AIso
+[BIsv]
+Bufftip=Крадій душі
+Buffubertip="Це душа героя."
+
+// reincarnation (ankh)
+[AIrc]
+Name=Предмет реінкарнація
+
+// recall (amulet)
+[AIrt]
+Name=Предмет відкликати
+
+[AItp]
+Name=Предмет міський портал
+
+[AIco]
+Name=Предмет керувати
+
+// figurine unit summon ability - red drake
+[AIfd]
+Name=Предмет викликати червоного змія
+
+// furbolg
+[AIff]
+Name=Предмет викликати фурболґа
+
+// rock golem
+[AIfr]
+Name=Предмет викликати кам'яного голема
+
+// doom guard
+[AIfu]
+Name=Предмет викликати вартового фатуму
+
+// felhound
+[AIfh]
+Name=Предмет викликати скверногончака
+
+// skeleton
+[AIfs]
+Name=Предмет викликати скелета
+
+// Ice Revenant
+[AIir]
+Name=Предмет викликати крижаного ревенанта
+
+// Ursa Warrior
+[AIuw]
+Name=Предмети викликати воїна урси
+
+[BFig]
+Bufftip=Викликаний юніт
+Buffubertip="Викликані війська отримують додаткову шкоду від розсіяння."
+
+// place goblin land mine
+[AIpm]
+Name=Предмет поставити ґоблінську міну
+
+// permanent attack bonus
+[AIaa]
+Name=Предмет миттєво додати шкоду
+
+// permanent hit point bonus
+[AImi]
+Name=Предмет миттєво додати життя
+
+[AIpx]
+Name=Предмет миттєво додати життя
+EditorSuffix=(менше)
+
+// vampiric life steal ability
+[AIva]
+Name=Предмет викрадення життя
+
+// cloak of flames immolation
+[AIcf]
+Name=Предмет жертвопринесення
+
+// Cloak of Flames immolation buff
+[BIcf]
+Bufftip=Плащ полум'я
+Buffubertip="Цей юніт має плащ полум'я; ближні ворожі наземні війська отримуватимуть шкоду з часом."
+
+// hero stat bonus
+[AIab]
+Name=Предмет бонус параметри героя
+
+// freeze damage bonus
+[AIzb]
+Name=Предмет бонус крижана шкода
+
+// max life bonus
+[AIml]
+Name=Предмет бонус життя
+
+[AIlz]
+Name=Предмет бонус життя
+EditorSuffix=(менше)
+
+// regen life
+[Arel]
+Name=Предмет відновлення життя
+
+// anti-magic shield
+[Aami]
+Name=Предмет антимагічна оболонка
+
+// max mana bonus
+[AImm]
+Name=Предмет бонус мани
+
+[AImz]
+Name=Предмет бонус мани (100)
+
+[AImv]
+Name=Предмет бонус мани (75)
+
+[AI2m]
+Name=Предмет бонус мани (200)
+
+// attack speed increase
+[AIas]
+Name=Предмет бонус швидкості атаки
+
+[AIsx]
+Name=Предмет бонус швидкості атаки
+EditorSuffix= (Рукавиці поспіху)
+
+[AIs2]
+Name=Предмет бонус швидкості атаки
+EditorSuffix= (Більший)
+
+[AIan]
+Name=Предмет оживити мерців
+
+[AIrs]
+Name=Предмет воскрешення
+
+[AIrx]
+Name=Предмет воскрешення
+EditorSuffix=(перерва)
+
+[APrl]
+Name=Менша руна воскрешення
+
+[APrr]
+Name=Більша руна воскрешення
+
+[AIaa]
+
+[AImi]
+
+[AIms]
+Name=Предмет бонус швидкості пересування
+
+[AIa3]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+3 спритність)
+
+[AIa4]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+4 спритність)
+
+[AIa6]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+6 спритність)
+
+[AIaz]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+10 спритність)
+
+[AIx5]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+5 усі параметри)
+
+[AIx2]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+2 усі параметри)
+
+[AIs3]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+3 сила)
+
+[AIs4]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+4 сила)
+
+[AIs6]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+6 сила)
+
+[AIi3]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+3 розум)
+
+[AIi4]
+Name=Предмет Герой бонус параметри
+EditorSuffix=(+4 розум)
+
+[AIi6]
+Name=Предмет Герой бонус параметри
+EditorSuffix=(+6 розум)
+
+[AIgm]
+Name=Предмет бонус спритності
+EditorSuffix=(+2)
+
+[AItm]
+Name=Предмет бонус розуму
+EditorSuffix=(+2)
+
+[AInm]
+Name=Предмет бонус сили
+EditorSuffix=(+2)
+
+[AIt6]
+Name=Предмет бонус шкоди
+EditorSuffix=(+6)
+
+[AIt9]
+Name=Предмет бонус шкоди
+EditorSuffix=(+9)
+
+[AItc]
+Name=Предмет бонус шкоди
+EditorSuffix=(+12)
+
+[AItf]
+Name=Предмет бонус шкоди
+EditorSuffix=(+15)
+
+[AIcy]
+Name=Циклон
+Tip=Циклон
+Ubertip="Підкидає обраного ворожого немеханічного юніта в повітря, роблячи його не здатним до пересування, атаки чи накладання заклять, але не даючи іншим атакувати його чи накладати на нього заклинання. |nТриває <AIcy,Dur1> секунд."
+Hotkey=C
+EditorSuffix=(Предмет)
+
+[AId1]
+Name=Предмет бонус броні
+EditorSuffix=(+1)
+
+[AId2]
+Name=Предмет бонус броні
+EditorSuffix=(+2)
+
+[AId3]
+Name=Предмет бонус броні
+EditorSuffix=(+3)
+
+[AId4]
+Name=Предмет бонус броні
+EditorSuffix=(+4)
+
+[AId5]
+Name=Предмет бонус броні
+EditorSuffix=(+5)
+
+[AId7]
+Name=Предмет бонус броні
+EditorSuffix=(+7)
+
+[AId8]
+Name=Предмет бонус броні
+EditorSuffix=(+8)
+
+[AId0]
+Name=Предмет бонус броні
+EditorSuffix=(+10)
+
+[AIin]
+EditorSuffix=(Предмет)
+
+[AIlf]
+Name=Предмет бонус життя
+EditorSuffix=(Найменше)
+
+[AIl1]
+Name=Предмет бонус життя
+EditorSuffix=(Менше)
+
+[AIl2]
+Name=Предмет бонус життя
+EditorSuffix=(Більше)
+
+[Arll]
+Name=Предмет відновлення життя
+EditorSuffix=(Менше)
+
+[AIh1]
+Name=Предмет зцілення
+EditorSuffix=(Менше)
+
+[AIh2]
+Name=Предмет зцілення
+EditorSuffix=(Більше)
+
+[AIhw]
+Name=Зцілюючий оберіг
+Ubertip="Викликає нерухомий оберіг, який зцілює <Aoar,DataA1,%>% здоров'я в секунду ближнім дружнім немеханічним військам. |nТриває <AIhw,Dur1> секунд."
+EditorSuffix=(Предмет)
+
+[AIsw]
+Name=Вартовий оберіг
+Ubertip="Викликає невидимий та нерухомий оберіг, що надає бачення ділянки довкола себе. |nБачить невидимі війська. |nТриває <AIsw,Dur1> секунд."
+EditorSuffix=(Предмет)
+
+[AIv1]
+Name=Предмет тимчасова невидимість
+EditorSuffix=(Менша)
+
+[AIv2]
+Name=Предмет тимчасова невидимість
+EditorSuffix=(Більша)
+
+[AIm1]
+Name=Предмет відновлення мани
+EditorSuffix=(Менше)
+
+[AIm2]
+Name=Предмет відновлення мани
+EditorSuffix=(Більше)
+
+[AIrn]
+EditorSuffix=(Менше)
+
+[AIad]
+EditorSuffix=(Предмет)
+
+[AIcd]
+EditorSuffix=(Предмет)
+
+[AIwd]
+EditorSuffix=(Предмет)
+
+[AIba]
+EditorSuffix=(Предмет)
+
+[AIav]
+EditorSuffix=(Предмет)
+
+[AIar]
+EditorSuffix=(Предмет)
+
+[AIae]
+EditorSuffix=(Предмет)
+
+[AIau]
+EditorSuffix=(Предмет)
+
+[AIls]
+Name=Блискавичний щит
+Ubertip="Створює електричний щит довкола обраного юніта, який завдає <AIls,DataA1> шкоди в секунду військам довкола нього. |nТриває <AIls,Dur1> секунд."
+EditorSuffix=(Предмет)
+
+[AIrr]
+Name=Рев
+Ubertip="Підсилює шкоду дружніх військ, що знаходять поблизу на <AIrr,DataA1,%>%. |nТриває <AIrr,Dur1> секунд."
+EditorSuffix=(Предмет)
+
+[AIev]
+Name=Ухилення
+Ubertip="Дає <AIev,DataA1,%>% шанс уникнути удару."
+EditorSuffix=(Предмет)
+
+[AImx]
+Name=Невразливість до чарів
+Ubertip="Робить цього юніта невразливим до всіх заклять."
+EditorSuffix=(Предмет)
+
+[AImb]
+Name=Предмет бонус мани
+EditorSuffix=(Найменше)
+
+[AIbm]
+Name=Предмет бонус мани
+EditorSuffix=(Більше)
+
+[AIuv]
+Name=Гіперзір
+EditorSuffix=(Предмет)
+
+[AImh]
+Name=Предмет миттєве отримання життя
+EditorSuffix=(+50)
+
+[AIa1]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+1 спритність)
+
+[AIx1]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+1 усі параметри)
+
+[AIs1]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+1 сила)
+
+[AIi1]
+Name=Предмет герой бонус параметри
+EditorSuffix=(+1 розум)
+
+[AIfc]
+Name=Летючий килим
+
+// Healing Salve
+[AIrl]
+Name=Лікувальний бальзам
+
+[BIrl]
+Bufftip=Відновлення
+Buffubertip="На цього юніта накладено відновлення; його здоров'я відновиться з часом."
+
+// Clarity Potion
+[AIpr]
+Name=Зілля ясності
+
+[AIpl]
+Name=Менше зілля ясності
+
+// generic rejuv potion/scroll base
+[AIp1]
+Name=Звичайний предмет ефект-віднов
+
+[BIrm]
+Bufftip=Зілля ясності
+Buffubertip="Цей юніт випив зілля ясності; його мана відновиться з часом."
+
+[AIp2]
+Name=Звичайний предмет ефект-віднов
+EditorSuffix= (II)
+
+[AIp3]
+Name=Звичайний предмет ефект-віднов
+EditorSuffix= (III)
+
+[AIp4]
+Name=Звичайний предмет ефект-віднов
+EditorSuffix= (IV)
+
+[AIp5]
+Name=Звичайний предмет ефект-віднов
+EditorSuffix= (V)
+
+[AIp6]
+Name=Звичайний предмет ефект-віднов
+EditorSuffix= (VI)
+
+// Scroll of Regeneration
+[AIsl]
+Name=Сувій регенерації
+
+[BIrg]
+Bufftip=Відновлення
+Buffubertip="Цей юніт відновить здоров'я і ману з часом."
+EditorSuffix= (Предмет)
+
+// One time permanent gold increase
+[AIgo]
+Name=Скриня золота
+
+// One time permanent lumber increase
+[AIlu]
+Name=В'язка дров
+
+// Flare Gun
+[AIfa]
+Name=Сигнальна ракетниця
+
+[AIrv]
+Name=Предмет виявити цілу карту
+
+
+// Wand of Neutralization
+[AIdc]
+Name=Предмет ланцюг розсіяння
+
+// Spider Silk
+[AIwb]
+Name=Предмет павутиння
+
+// Monster Lure
+[AImo]
+Name=Приманка монстрів
+
+[BImo]
+Bufftip=Приманка монстрів
+Buffubertip="Ближні монстри підуть на цю приманку."
+
+// Random Item
+[AIri]
+Name=Випадковий предмет
+
+// Blight Placement
+[Ablp]
+Name=Розміщення занепаду
+
+// Steal
+[Aste]
+Name=Викрадення
+
+// Change TOD
+[AIct]
+Name=Зміна часу дня
+
+// Vampiric Potion
+[AIpv]
+Name=Вампіричне зілля
+
+[BIpv]
+Bufftip=Вампіричне зілля
+Buffubertip="Цей герой випив вампіричне зілля; тепер йому збільшено шкоду і його атаки крадуть життя."
+
+// Spell Damage Reduction
+[AIsr]
+Name=Зменшення шкоди від ваклять
+
+// Build Tiny Castle
+[AIbl]
+Name=Звести крихітний замок
+
+// Build Tiny Castle
+[AIbg]
+Name=Звести крихітну велику залу
+
+//build tiny tower
+[AIbt]
+Name=Звести крихітну розвідницьку вежу
+
+
+// Shadowsight
+[Ashs]
+Name=Берло тіньового зору
+
+[Bshs]
+Bufftip=Берло тіньового зору
+Buffubertip="Цього юніта зачепило берлом тіньового зору; його виявлено ворожому гравцю."
+
+// Tome of Retraining
+[Aret]
+Name=Фоліант перепідготовки
+
+// Staff of Teleportation
+[AImt]
+Name=Патериця телепортації
+
+// Staff of Preservation
+[ANpr]
+Name=Патериця збереження
+
+// Mechanical Critter
+[Amec]
+Name=Механічна тварина
+
+[Bmec]
+Bufftip=Механічна тварина
+Buffubertip="Викликані війська отримують шкоду від розсіяння."
+
+// Spell Shield
+[ANss]
+Name=Щит заклять
+EditorSuffix= (Амулет)
+
+// Spell Shield (AOE)
+[ANse]
+Name=Щит заклять
+EditorSuffix= (Руна)
+
+[BNss]
+Bufftip=Щит заклять
+Buffubertip="Захисний щит, що блокує закляття."
+
+// Spell book
+[Aspb]
+Name=Книга заклять
+
+// Raise Dead
+[AIrd]
+Name=Піняти мерців (предмет)
+
+// Staff of Sanctuary
+[ANsa]
+Name=Патериця святилища
+
+[BNsa]
+Bufftip=Сховок
+Buffubertip="Цей юніт під дією ефекту патериці сховку; його здоров'я відновиться з часом, але він не може рухатись, атакувати чи накладати закляття."
+
+[AIsa]
+Name=Сувій поспіху
+
+[APsa]
+Name=Руна швидкості
+
+[AItb]
+Name=Пил явлення
+
+[Bdet]
+Bufftip=Пил явлення
+Buffubertip="Пил явлення виявляє невидимі війська ворожим гравцям."
+
+[AIsb]
+Name=Сфера сповільнення
+
+[AIll]
+Name=Сфера блискавки (нова)
+
+[AIos]
+Name=Предмет сповільнити
+Tip=Сповільнити
+Ubertip="Сповільнює швидкість атак обраного ворожого юніта на <AIos,DataB1,%>% і швидкість пересування на <AIos,DataA1,%>%. |nТриває <AIos,Dur1> секунд."
+EditorSuffix= (Версія сфери)
+
+// Orb of Darkness
+[ANbs]
+Name=Сфера пітьми
+
+// Spirit Link (AOE)
+[Aspp]
+Name=Духовний зв'язок
+EditorSuffix= (Ділянка)
+
+[AIrb]
+Name=Переродження
+
+[BIrb]
+Bufftip=Переродження
+Buffubertip="Цей юніт перероджується."
+
+// Dark Summoning
+[AUds]
+Name=Темний виклик
+Tip=Темний виклик
+Ubertip="Викликає <AUds,DataA1> дружніх юнітів із обраної ділянки до того, хто це наклав."
+Hotkey=D
+Researchtip="Вивчити темний виклик"
+Researchubertip="Викликає <AUds,DataA1> дружніх юнітів із обраної ділянки до того, хто це наклав."
+Researchhotkey=D
+
+// anti-magic shield
+[AIxs]
+Name=Предмет антимагічна оболонка
+
+// divine shield item
+[AIdv]
+Name=Предмет божественний щит
+
+// silence item
+[AIse]
+Name=Предмет мовчання
+
+// item purge
+[AIpg]
+Name=Предмет очистити
+EditorSuffix= (2)
+
+// item purge
+[AIps]
+Name=Предмет очистити
+EditorSuffix= (3)
+
+//#RESTNOBETA
+[AItg]
+Name=Предмет бонус шкоди
+EditorSuffix=(+1)
+
+[AIth]
+Name=Предмет бонус шкоди
+EditorSuffix=(+2)
+
+[AIti]
+Name=Предмет бонус шкоди
+EditorSuffix=(+4)
+
+[AItj]
+Name=Предмет бонус шкоди
+EditorSuffix=(+5)
+
+[AItk]
+Name=Предмет бонус шкоди
+EditorSuffix=(+7)
+
+[AItl]
+Name=Предмет бонус шкоди
+EditorSuffix=(+8)
+
+[AItn]
+Name=Предмет бонус шкоди
+EditorSuffix=(+10)
+
+[AItx]
+Name=Предмет бонус шкоди
+EditorSuffix=(+20)
+
+[AIh3]
+Name=Менше зцілення
+EditorSuffix=(повільна перерва)
+
+// orcish battle standard
+[AIfx]
+Name=Предмет орківський бойовий штандарт
+
+// Hero attacks get fire damage bonus, persistent, Orb of Gul'dan
+[AIgd]
+Name=Предмет бонус атаки вогонь
+EditorSuffix= (Ґул'дан)
+
+
+// tiny altar of kings
+[AIbh]
+Name=Звести крихітний вівтар королів
+
+// tiny blacksmith
+[AIbb]
+Name=Звести крихітну ковальню
+
+// tiny lumber mill
+[AIbr]
+Name=Звести крихітну лісопильню
+
+// tiny farm
+[AIbf]
+Name=Звести крихітну ферму
+
+// tiny barracks
+[AIbs]
+Name=Звести крихітні казарми
+
+[AIdn]
+Name=Сфера тіней здібність
+
+[AInd]
+Name=Оживлення
+EditorSuffix= (особливий предмет кампанії)
+
+[AIuf]
+Name=Нечестивий шал
+EditorSuffix= (предмет)
+
+[AIcm]
+Name=Контролювати магію
+EditorSuffix= (предмет)
+
+[AIfz]
+Name=Перст смерті
+EditorSuffix= (предмет)
+
+[AIdp]
+Name=Договір смерті
+EditorSuffix= (предмет)
+
+[AIdd]
+Name=Обороняти
+EditorSuffix= (предмет)
+
+[AIbx]
+Name=Важкий удар
+EditorSuffix= (предмет)
+
+[AIwm]
+Name=Водний посіпака
+EditorSuffix= (предмет)
+
+[AIsh]
+Name=Викликати головоріза
+EditorSuffix= (предмет)
+
+[BIsh]
+Bufftip=Дух головоріза
+
+[AIgx]
+Name=Аура відновлення
+EditorSuffix= (предмет)
+
+[AIhl]
+Name=Святе світло
+EditorSuffix= (предмет)
+
+[AIsz]
+Name=Сповільнювальна отрута
+EditorSuffix= (предмет)
+
+[AIpz]
+Name=Пінгвін-пищавка
+
+[AIfw]
+Name=Ближній бонус шкода вогнем
+
+[AIft]
+Name=Ближній бонус шкода холодом
+
+[AIlx]
+Name=Ближній бонус шкода блискавкою
+
+[AIcs]
+Name=Нищівний удар
+EditorSuffix= (предмет)
+
+[AIdd]
+
+[AIcl]
+Name=Ланцюгова блискавка
+EditorSuffix= (предмет)
+
+[AIxk]
+Name=Берсерк
+EditorSuffix= (предмет)
+
+// Ritual Dagger
+[AIdg]
+Name=Ритуальний кинджал
+EditorSuffix= (Миттєве зцілення)
+
+// Ritual Dagger
+[AIg2]
+Name=Ритуальний кинджал
+EditorSuffix= (Регенерація)
+
+// Ritual Dagger
+[AIg2]
+Name=Ритуальний кинджал
+EditorSuffix= (Регенерація)
+
+[AIf2]
+Name=Предмет атака зменшення зцілення
+
+[BIhm]
+Bufftip=Зменшення зцілення
+Buffubertip="У цього юніта сповільнено відновлення здоров'я."
+
+//----------------------------------------------------
+// Buffs with no in-game text
+// EditorName is for the Object Editor list only
+
+[BIwb]
+EditorName=Предмет павутиння
+
+[Btrv]
+EditorName=Телепорт виявлення
