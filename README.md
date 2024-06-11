@@ -13,3 +13,6 @@ https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/archive/refs/head
 ### Як встановити на MacOS
 ### Хто автор перекладу?
 ### Скріншоти
+
+Click [here](https://www.geeksforgeeks.org/){:target="_blank"} 
+to visit GeeksForGeeks website.
