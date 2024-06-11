@@ -6,7 +6,7 @@
 
 Версія FULL ~ 1 ГБ
  - Все що в Light а також
- - Повний переклад кампанії(текст),субтитри до роликів
+ - Повний переклад всіх кампанії,субтитри до роликів
  - [Завантажити FULL](https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/archive/refs/heads/main.zip)
 ------------
 ### Як переклад виглядає в грі 
