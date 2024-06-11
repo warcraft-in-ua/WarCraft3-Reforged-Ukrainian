@@ -6,7 +6,7 @@ https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/archive/refs/head
 
 
 ~ 36 МБ
-https://download-directory.github.io?url=https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/tree/a120a6e183ca545117f34ef854c32b2cc9b5ffca/LIGHT%5BInterface%20only%5D&filename=reforged-ukrainian-light
+[enter link description here](https://download-directory.github.io/?url=https://github.com/warcraft-in-ua/WarCraft3-Reforged-Ukrainian/tree/a120a6e183ca545117f34ef854c32b2cc9b5ffca/LIGHT%5BInterface%20only%5D&filename=reforged-ukrainian-light)
 ------------
 ### Як переклад виглядає в грі 
 - https://youtu.be/IZFsbud6uCs
