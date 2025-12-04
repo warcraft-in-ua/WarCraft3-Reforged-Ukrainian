@@ -1,0 +1,528 @@
+{
+    "stringTablePath": "war3map.wts",
+    "conversation": {
+        "Intro Cinematic .Intro Cinematic": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 405,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Uther01.flac",
+                "dialogueId": 406,
+                "animationLabel": "H01Uther01",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\human\\Arthas\\Arthas.mdl",
+                "speakerNameId": 407,
+                "speakerUnitID": "Hart",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Arthas02.flac",
+                "dialogueId": 408,
+                "animationLabel": "H01Arthas02",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Arthas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 460,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Uther03.flac",
+                "dialogueId": 459,
+                "animationLabel": "H01Uther03",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "units\\human\\Arthas\\Arthas.mdl",
+                "speakerNameId": 411,
+                "speakerUnitID": "Hart",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Arthas04.flac",
+                "dialogueId": 412,
+                "animationLabel": "H01Arthas04",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Arthas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 462,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Uther05.flac",
+                "dialogueId": 461,
+                "animationLabel": "H01Uther05",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 5,
+                "speakerModel": "units\\human\\Arthas\\Arthas.mdl",
+                "speakerNameId": 415,
+                "speakerUnitID": "Hart",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Arthas06.flac",
+                "dialogueId": 416,
+                "animationLabel": "H01Arthas06",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Arthas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 6,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 417,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Uther07.flac",
+                "dialogueId": 418,
+                "animationLabel": "H01Uther07",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 7,
+                "speakerModel": "units\\human\\Arthas\\Arthas.mdl",
+                "speakerNameId": 419,
+                "speakerUnitID": "Hart",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Arthas08.flac",
+                "dialogueId": 420,
+                "animationLabel": "H01Arthas08",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Arthas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 8,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 421,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Uther09.flac",
+                "dialogueId": 422,
+                "animationLabel": "H01Uther09",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 9,
+                "speakerModel": "units\\human\\Arthas\\Arthas.mdl",
+                "speakerNameId": 423,
+                "speakerUnitID": "Hart",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Arthas10.flac",
+                "dialogueId": 424,
+                "animationLabel": "H01Arthas10",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Arthas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 10,
+                "speakerModel": "units\\human\\Uther\\Uther.mdl",
+                "speakerNameId": 425,
+                "speakerUnitID": "Huth",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Uther11.flac",
+                "dialogueId": 426,
+                "animationLabel": "H01Uther11",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Uther.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Mid Cinematic.Orc Cinematic Queue": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Orc\\OrcWarlord\\OrcWarlord.mdl",
+                "speakerNameId": 96,
+                "speakerUnitID": "owad",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01WolfRider19.flac",
+                "dialogueId": 97,
+                "animationLabel": "H01WolfRider19",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/OrcWarlord.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\orc\\Grunt\\Grunt.mdl",
+                "speakerNameId": 98,
+                "speakerUnitID": "ogru",
+                "listenerName": "d",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Grunt21.flac",
+                "dialogueId": 99,
+                "animationLabel": "H01Grunt21",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Grunt.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "End Cinematic.Victory Cinematic": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerWoman\\VillagerWoman.mdl",
+                "speakerNameId": 120,
+                "speakerUnitID": "nvlw",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01VillagerF22.flac",
+                "dialogueId": 121,
+                "animationLabel": "H01VillagerF22",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerWoman.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\critters\\VillagerKid\\VillagerKid.mdl",
+                "speakerNameId": 122,
+                "speakerUnitID": "nvlk",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01VillagerC23.flac",
+                "dialogueId": 123,
+                "animationLabel": "H01VillagerC23",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerKid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 2,
+                "speakerModel": "units\\human\\Arthas\\Arthas.mdl",
+                "speakerNameId": 124,
+                "speakerUnitID": "Hart",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Arthas24.flac",
+                "dialogueId": 125,
+                "animationLabel": "H01Arthas24",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Arthas.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 3,
+                "speakerModel": "units\\human\\Knight\\Knight.mdl",
+                "speakerNameId": 128,
+                "speakerUnitID": "hkni",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Knight25.flac",
+                "dialogueId": 129,
+                "animationLabel": "H01Knight25",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Knight.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 4,
+                "speakerModel": "units\\human\\Arthas\\Arthas.mdl",
+                "speakerNameId": 126,
+                "speakerUnitID": "Hart",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Arthas26.flac",
+                "dialogueId": 127,
+                "animationLabel": "H01Arthas26",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Arthas.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Surprise Attack.Call for help Queue": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 108,
+                "speakerUnitID": "nC15",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human03\\H03VillagerM50.flac",
+                "dialogueId": 109,
+                "animationLabel": "H03VillagerM50",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Surprise Attack.Surprise Attack Queue": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Footman\\Footman.mdl",
+                "speakerNameId": 131,
+                "speakerUnitID": "hfoo",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human03\\H03Footman47.flac",
+                "dialogueId": 133,
+                "animationLabel": "H03Footman47",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Footman.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Creeps\\BanditEnforcer\\BanditEnforcer.mdl",
+                "speakerNameId": 134,
+                "speakerUnitID": "nC12",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Bandit32.flac",
+                "dialogueId": 135,
+                "animationLabel": "H01Bandit32",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/BanditEnforcer.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Recruit Villagers.Recruit Queue": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 250,
+                "speakerUnitID": "nC14",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01VillagerM43.flac",
+                "dialogueId": 251,
+                "animationLabel": "H01VillagerM43",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Villager Greetings.AproachesJerrett": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 256,
+                "speakerUnitID": "nC02",
+                "soundFile": "Units\\Critters\\VillagerMan\\VillagerM1.flac",
+                "dialogueId": 257,
+                "animationLabel": "VillagerM1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Villager Greetings.AproachesTed": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 258,
+                "speakerUnitID": "nC03",
+                "soundFile": "Units\\Critters\\VillagerMan\\VillagerM2.flac",
+                "dialogueId": 259,
+                "animationLabel": "VillagerM2",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Villager Greetings.AproachesMaria": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerWoman\\VillagerWoman.mdl",
+                "speakerNameId": 260,
+                "speakerUnitID": "nC09",
+                "soundFile": "Units\\Critters\\VillagerWoman\\VillagerF1.flac",
+                "dialogueId": 261,
+                "animationLabel": "VillagerF1",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerWoman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Villager Greetings.AproachesStephanie": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerWoman\\VillagerWoman.mdl",
+                "speakerNameId": 262,
+                "speakerUnitID": "nC10",
+                "soundFile": "Units\\Critters\\VillagerWoman\\VillagerF2.flac",
+                "dialogueId": 263,
+                "animationLabel": "VillagerF2",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerWoman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Villager Greetings.AproachesAmy Diane": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerWoman\\VillagerWoman.mdl",
+                "speakerNameId": 264,
+                "speakerUnitID": "nC08",
+                "soundFile": "Units\\Critters\\VillagerWoman\\VillagerF3.flac",
+                "dialogueId": 265,
+                "animationLabel": "VillagerF3",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerWoman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Pursuit Scene.Sound Pursuit": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 108,
+                "speakerUnitID": "nC15",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human03\\H03VillagerM50.flac",
+                "dialogueId": 109,
+                "animationLabel": "H03VillagerM50",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Pursuit Scene.Sound Pursuit2": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\orc\\Grunt\\Grunt.mdl",
+                "speakerNameId": 383,
+                "speakerUnitID": "ogru",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Grunt17.flac",
+                "dialogueId": 384,
+                "animationLabel": "H01Grunt17",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Grunt.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Pursuit Scene.VillagerDies": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\human\\Arthas\\Arthas.mdl",
+                "speakerNameId": 466,
+                "speakerUnitID": "Hart",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01Arthas18.flac",
+                "dialogueId": 465,
+                "animationLabel": "H01Arthas18",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/Arthas.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Timmy Quest.Timmy Quest Queue": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerWoman\\VillagerWoman.mdl",
+                "speakerNameId": 35,
+                "speakerUnitID": "nC07",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01VillagerF27.flac",
+                "dialogueId": 41,
+                "animationLabel": "H01VillagerF27",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerWoman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Timmy Quest.Player Enters Camp": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerKid\\VillagerKid.mdl",
+                "speakerNameId": 230,
+                "speakerUnitID": "nvlk",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01VillagerC35.flac",
+                "dialogueId": 231,
+                "animationLabel": "H01VillagerC35",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerKid.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Timmy Quest.Gnolls are defeated": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerKid\\VillagerKid.mdl",
+                "speakerNameId": 232,
+                "speakerUnitID": "nvlk",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01VillagerC36.flac",
+                "dialogueId": 233,
+                "animationLabel": "H01VillagerC36",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerKid.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\critters\\VillagerWoman\\VillagerWoman.mdl",
+                "speakerNameId": 323,
+                "speakerUnitID": "nC07",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01VillagerF42.flac",
+                "dialogueId": 324,
+                "animationLabel": "H01VillagerF42",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerWoman.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Ledger Quest.Bandit Scene Queue": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 110,
+                "speakerUnitID": "nC06",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01VillagerM33.flac",
+                "dialogueId": 111,
+                "animationLabel": "H01VillagerM33",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "Units\\Creeps\\BanditEnforcer\\BanditEnforcer.mdl",
+                "speakerNameId": 112,
+                "speakerUnitID": "nC04",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01BanditB14.flac",
+                "dialogueId": 113,
+                "animationLabel": "H01BanditB14",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/BanditMage.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Ledger Quest.Ledger Quest Queue": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 7,
+                "speakerUnitID": "nC06",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human01\\H01VillagerM28.flac",
+                "dialogueId": 19,
+                "animationLabel": "H01VillagerM28",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Ledger Quest.Camp is entered": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "Units\\Creeps\\BanditEnforcer\\BanditEnforcer.mdl",
+                "speakerNameId": 70,
+                "speakerUnitID": "nC04",
+                "soundFile": "Units\\Creeps\\Bandit\\BanditYesAttack2.flac",
+                "dialogueId": 71,
+                "animationLabel": "BanditYesAttack2",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/BanditMage.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ],
+        "Ledger Quest.Return Ledger Queue": [
+            {
+                "conversationOrder": 0,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 284,
+                "speakerUnitID": "nC06",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human03\\H03VillagerM44.flac",
+                "dialogueId": 285,
+                "animationLabel": "H03VillagerM44",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            },
+            {
+                "conversationOrder": 1,
+                "speakerModel": "units\\critters\\VillagerMan\\VillagerMan.mdl",
+                "speakerNameId": 286,
+                "speakerUnitID": "nC06",
+                "soundFile": "Sound\\Dialogue\\HumanCampaign\\Human03\\H03VillagerM43.flac",
+                "dialogueId": 287,
+                "animationLabel": "H03VillagerM43",
+                "animationGroupLabel": "Map",
+                "animationSetFilepath": "Sound/Dialogue/FaceAnimation/Human01/FacialAnimation/VillagerMan.animset",
+                "animationSetFilepathMapRelative": false
+            }
+        ]
+    }
+}
